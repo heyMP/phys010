@@ -2,7 +2,7 @@
 
 The outline of the course is as follows. Assignments are usually due Sunday at 11h59pm eastern time. Exams will be opened from Tuesday to Thursday on weeks 6, 11 and 16.
 
-{% [ciscode|rev=1|tool=elmsmedia|item=291|entity_type=node|render=display_mode|display_mode=image__left] %}
+[ciscode|rev=1|tool=elmsmedia|item=291|entity_type=node|render=display_mode|display_mode=image__left]
 
 ## Units
 
