@@ -20,7 +20,7 @@ Legend: hw=homework, db=iscussion Board
     * db #1
     * pre-course survey
 
-#### Energy (Week /#2 Jan 16 - Jan 22)
+#### Energy (Week #2 Jan 16 - Jan 22)
   * Newsflash
     * Asteroid Hit in Siberia
   * Readings
