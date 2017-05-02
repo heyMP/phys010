@@ -31,6 +31,3 @@ Legend: hw=homework, db=iscussion Board
     * db #2
     
 CONTINUED
-
-{%%}
-
