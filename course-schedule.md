@@ -16,14 +16,9 @@ Legend: hw=homework, db=iscussion Board
     * Ch. 1, pp 1-7, pp 16-22, pp. 30-2
     * Week 1 Lesson
   * Assignments
+    * hw /#1  
+    * db /#1
     * pre-course survey
-    * db \#1
-    * hw \#1
-
-
-
-
-
 
 
 {%%}
