@@ -16,8 +16,8 @@ Legend: hw=homework, db=iscussion Board
     * Ch. 1, pp 1-7, pp 16-22, pp. 30-2
     * Week 1 Lesson
   * Assignments
-    * hw /#1  
-    * db /#1
+    * hw #1  
+    * db #1
     * pre-course survey
 
 #### Energy (Week /#2 Jan 16 - Jan 22)
@@ -26,7 +26,9 @@ Legend: hw=homework, db=iscussion Board
   * Readings
     * Ch. 2, pp 38-57
     * Week 2 Lesson
-  * Assi
+  * Assignments
+    * hw #2
+    * db #2
 
 {%%}
 
