@@ -1,14 +1,12 @@
 # Course Schedule
 
-The outline of the course is as follows. Assignments are usually due Sunday at 11h59pm eastern time. Exams will be opened from Tuesday to Thursday on weeks 6, 11 and 16.
+The outline of the course is as follows. Assignments are usually due Sunday at 11h59pm eastern time. Exams will be opened from Tuesday to Thursday on weeks 6, 11 and 16.
 
 ## Units
 
 ### Unit 1: The Buidling Blocks of Nature
 
 Legend: hw=homework, db=iscussion Board
-
-
 
 * Atoms and Particles
   * Newsflash: Spelling IBM and the Worlds Smallest Movie
@@ -23,4 +21,10 @@ Legend: hw=homework, db=iscussion Board
     * hw \#1
 
 
+
+
+
+
+
+{%%}
 
