@@ -8,9 +8,9 @@ The outline of the course is as follows. Assignments are usually due Sunday at 1
 
 Legend: hw=homework, db=iscussion Board
 
-* Atoms and Particles
-  * Newsflash: Spelling IBM and the Worlds Smallest Movie
-  * Week: \#1 Jan 9 - Jan 15
+#### Atoms and Particles (Week #1 Jan 9 - Jan 15)
+  * Newsflash
+    * Spelling IBM and the Worlds Smallest Movie
   * Readings
     * Syllabus
     * Ch. 1, pp 1-7, pp 16-22, pp. 30-2
@@ -20,6 +20,13 @@ Legend: hw=homework, db=iscussion Board
     * db /#1
     * pre-course survey
 
+#### Energy (Week /#2 Jan 16 - Jan 22)
+  * Newsflash
+    * Asteroid Hit in Siberia
+  * Readings
+    * Ch. 2, pp 38-57
+    * Week 2 Lesson
+  * Assi
 
 {%%}
 
