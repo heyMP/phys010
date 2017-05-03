@@ -1,4 +1,4 @@
-# Getting Started
+# Welcome Class to our lovely class
 
 ## Welcome to Phys 010: Physics Behind the Headlines!
 
