@@ -1,6 +1,6 @@
 # Instructor
 
-change from gitbook.io
+Change from drupal.
 
 Prof. Louis Leblond  
 office 814-865-5233  
