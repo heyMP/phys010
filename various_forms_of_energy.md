@@ -15,7 +15,7 @@ The tables we have seen previously are good to keep in mind. Energy and power ar
 
 But let us return to kinetic energy. This is the energy of movement, which will bring us to thermal energy. Again the formula here is easy to remember, the energy of movement is proportional to the mass and goes like the velocity squared.
 
-\(K=\frac12 mv^2\)
+$$\(K=\frac12 mv^2\)$$
 
 Very large objects or objects with very large speed can have tremendous amount of kinetic energy. More importantly, doubling the speed means that you quadruple the energy. This means that when you drive twice as fast, you will suffer much more than twice the damage in a collision!
 

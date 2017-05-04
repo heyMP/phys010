@@ -1,3 +1,3 @@
 {
-    "plugins": ["youtube", "oerschema"]
+    "plugins": ["youtube", "oerschema", "mathjax"]
 }
