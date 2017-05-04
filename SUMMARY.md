@@ -16,6 +16,17 @@
         * [Academic Integrity](academic_integrity.md)
     * [Proctored Exams - Kryterion](proctored_exams_kryterion.md)
     * [Proctored Exams](proctored_exams.md)
+    * [The Brain and Physics](the_brain_and_physics.md)
+    * [Plagiarism](plagiarism.md)
+    
+# Lessons
+
+
+* [Lessons](lessons.md)
+
+    
+
+
 
 
         
