@@ -41,6 +41,8 @@
         * [Heat (or thermal energy)](heat_or_thermal_energy.md)
         * [Phase Transitions](phase_transitions.md)
         * [Conservation of Energy](conservation_of_energy.md)
+        * [Week 2 Summary](week_2_summary.md)
+
 
 
 
