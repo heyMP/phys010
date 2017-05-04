@@ -44,10 +44,15 @@
         * [Week 2 Summary](week_2_summary.md)
         * [W2 Menu 11](w2_menu_11.md)
     * [Week 3: Momentum and Waves](week_3_momentum_and_waves.md)
-        * [Momentum](momentum.md)
-        * [Conservation of Momentum](conservation_of_momentum.md)
-        * [Recoil](recoil.md)
-        * [Recoil](recoil.md)
+	* [Momentum](momentum.md)
+	* [Conservation of Momentum](conservation_of_momentum.md)
+	* [Recoil](recoil.md)
+	* [The Pendulum](the_pendulum.md)
+	* [Waves](waves.md)
+	* [Creating Waves](creating_waves.md)
+	* [Sound](sound.md)
+	* [Newsflash 3](newsflash_3.md)
+	* [Week 3 Summary](week_3_summary.md)
 
 
 
