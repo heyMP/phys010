@@ -2,5 +2,5 @@
 
 
 * [Getting Started](getting_started.md)
-    * [Summary](summary.md)
-    # [Article](article.md)
+    * [Instructor](instructor.md)
+    * [Article](article.md)
