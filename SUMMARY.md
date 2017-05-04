@@ -25,6 +25,31 @@
 * [Lessons](lessons.md)
     * [Week 1: Atoms and Particles](week_1_atoms_and_particles.md)
         * [Introduction and Concept Map](introduction_and_concept_map.md)
+        * [Numbers and Units](numbers_and_units.md)
+        * [Newsflash 1](newsflash_1.md)
+        * [Introduction and Concept Map](introduction_and_concept_map.md)
+        * [The Atomic Theory](the_automic_theory.md)
+        * [What are Atoms?](what_are_atoms.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
