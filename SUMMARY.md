@@ -53,6 +53,13 @@
 	* [Sound](sound.md)
 	* [Newsflash 3](newsflash_3.md)
 	* [Week 3 Summary](week_3_summary.md)
+    * [Week 4: Wave Interference](week_4_wave_interference.md)
+	* [Light as a Wave](light_as_a_wave.md)
+	* [Interlude: Physics as an Experimental Science](interlude_physics_as_an_experimental_science.md)
+	* [Waves Can Cancel or Reinforce](waves_can_cancel_or_reinforce.md)
+	* [The Double Slit Experiment](the_double_slit_experiment.md)
+	* [Stationary Waves](stationary_waves.md)
+	* [Week 4 Summary](week_4_summary.md)
 
 
 
