@@ -37,6 +37,14 @@
         * [Power and Energy in Your Daily Life](power_and_energy_in_your_daily_life.md)
         * [Newsflash 2](newsflash_2.md)
         * [Various Forms of Energy](various_forms_of_energy.md)
+        * [The Four States of Matter](the_four_states_of_matter.md)
+        * [Heat (or thermal energy)](heat_or_thermal_energy.md)
+        * [Phase Transitions](phase_transitions.md)
+        * [Conservation of Energy](conservation_of_energy.md)
+
+
+
+
 
 
 
