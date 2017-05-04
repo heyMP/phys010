@@ -3,4 +3,4 @@
 
 * [Getting Started](getting_started.md)
     * [Instructor](instructor.md)
-    * [Article](article.md)
+    * [Course Schedule](course_schedule.md)
