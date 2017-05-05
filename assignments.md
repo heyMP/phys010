@@ -3,6 +3,10 @@ Content
 
 The learning material for this course is provided on the course content site under the Lessons section on the left sidebar.
 
+### New Section
+
+New content goes here
+
 Labs
 ----
 
