@@ -26,4 +26,4 @@ There will be weekly graded discussion boards. Each discussion board will have s
 LATE POLICY
 -----------
 
-<span class="normalSpan"><span class="normalSpan"><span class="normalSpan">Assignments will be announced on the ANGEL page at least 5 days before their due date. Time deadlines are strictly enforced. Do not wait until the last moment; computer glitches are not a valid excuse for missing deadlines. **No late homework will be accepted.**</span></span></span>
+Assignments will be announced on the ANGEL page at least 5 days before their due date. Time deadlines are strictly enforced. Do not wait until the last moment; computer glitches are not a valid excuse for missing deadlines. **No late homework will be accepted.**
