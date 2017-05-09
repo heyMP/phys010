@@ -9,5 +9,3 @@ How to Contact Me
 
 - For administrative questions, you should just email me at [lul29@psu.edu](mailto:lul29@psu.edu?subject=Phys10%20Instr.%20page%3A)
 - for any physics questions, you can ask on [Canvas](https://psu.instructure.com/courses/1800051), our discussion forum.
-
-gitbook change
