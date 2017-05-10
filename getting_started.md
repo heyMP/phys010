@@ -17,3 +17,5 @@ In the weekly lessons, you will often see many discussions between Sophie and Ma
 - M: Here is my question, could we have a soul or are we just machines?
 - S: ...I thought this was a class about science not a philosophy class about souls.
 - M: Yeah I know.... but just wondering...
+
+asdf
