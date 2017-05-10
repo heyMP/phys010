@@ -55,9 +55,9 @@ By looking at the last link. Can you answer the following question?
 <div class="question">Q. In meters, what is the order of magnitude size of the Earth (at the equator)?
 
 1. [$$10^7$$ m](# "10 to the fifth power")**Yes indeed**, the Earth is about \(10^7\) m in size
-2. [\(10^4\) m](# "10 to the seventh power")**No**—make sure you have the right units! The equator is \(10^4\) km
-3. [\(10^{-4}\) m](# "10 to the minus fifth power")**No**
-4. [\(10^{-7}\) m](# "10 to the minus seventh power")**No**
+2. [$$10^4$$ m](# "10 to the seventh power")**No**—make sure you have the right units! The equator is \(10^4\) km
+3. [$$10^{-4}$$ m](# "10 to the minus fifth power")**No**
+4. [$$10^{-7}$$ m](# "10 to the minus seventh power")**No**
 
 </div>Systems of Units
 ----------------
