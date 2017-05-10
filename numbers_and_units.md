@@ -2,14 +2,14 @@ In this first week, we will study our first building block of nature: matter par
 
 Fig 1 and 2 are two artistic representations of atoms that you will often encounter. Fig 1 is the old orbit model where you see electrons flying around the nucleus. As we will see later on, this is not quite right and the cloud model (Fig. 2) is a better illustration.
 
-<div class="row"><div class="small-12 medium-6 column">![](https://online.science.psu.edu/sites/default/files/phys010/W1atoms/rutherford-atom.png "Fig 1. Old orbit model for electrons (this is wrong). ")</div><div class="small-12 medium-6 column">![](https://online.science.psu.edu/sites/default/files/phys010/W1atoms/Helium_atom_QM.svg_.png "Fig 2. Cloud model represent the probability of where we have better chances to find the electrons.")</div></div>Order of Magnitude
+[Fig 1-2]
 ------------------
 
 In physics, we want to study the whole world and as you can imagine, we often end up dealing with very small and very big numbers. Of course, small or big is always in reference to something else. The atom is small compared to you but it is huge compared to the size of a proton!
 
 Compared to daily human scale the atoms are really small, so small that you cannot see them but not so small that we cannot manipulate them. You may have heard of nanoscience, nano-devices, nanocenters... The nano here refers to nanometer and it is a distance of
 
-\(10^{-9}\) meters.  
+$$10^{-9}$$ meters.  
   
 which is the distance taken by a few atoms.
 
