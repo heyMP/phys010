@@ -52,12 +52,8 @@ To get a sense of scale and how big and small things compare, look at the follow
 
 By looking at the last link. Can you answer the following question?
 
+<iframe src="https://h5p.org/h5p/embed/74441" width="1090" height="289" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <div class="question">Q. In meters, what is the order of magnitude size of the Earth (at the equator)?
-
-1. [$$10^7$$ m](# "10 to the fifth power")**Yes indeed**, the Earth is about \(10^7\) m in size
-2. [$$10^4$$ m](# "10 to the seventh power")**No**—make sure you have the right units! The equator is \(10^4\) km
-3. [$$10^{-4}$$ m](# "10 to the minus fifth power")**No**
-4. [$$10^{-7}$$ m](# "10 to the minus seventh power")**No**
 
 </div>Systems of Units
 ----------------
