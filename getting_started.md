@@ -18,4 +18,4 @@ In the weekly lessons, you will often see many discussions between Sophie and Ma
 - S: ...I thought this was a class about science not a philosophy class about souls.
 - M: Yeah I know.... but just wondering...
 
-Change from https://courses.ed.science.psu.edu/phys010/node/3643/edit
+asdf
