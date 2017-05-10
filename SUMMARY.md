@@ -23,7 +23,6 @@
     * [Introduction and Concept Map](introduction_and_concept_map.md)
     * [Numbers and Units](numbers_and_units.md)
     * [Newsflash 1](newsflash_1.md)
-    * [Introduction and Concept Map](introduction_and_concept_map.md)
     * [The Atomic Theory](the_automic_theory.md)
     * [What are Atoms?](what_are_atoms.md)
     * [The Trio of Matter Particles](the_trio_of_matter_particles.md)
@@ -60,6 +59,4 @@
   * [The Double Slit Experiment](the_double_slit_experiment.md)
   * [Stationary Waves](stationary_waves.md)
   * [Week 4 Summary](week_4_summary.md)
-
----
 
