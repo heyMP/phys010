@@ -15,7 +15,7 @@ which is the distance taken by a few atoms.
 
 - Marie (M): (interrupting) Do you know scientific notation?
 - Sophie (S): You mean the exponent? By the way, I thought there was no math in this class.
-- M: Yes. I mean, yes, the exponent--and, yes, the math in this class is very elementary, but we still need to know how to count things and we will learn a few simple equations!
+- M: Yes. I mean, yes, the exponent--and, yes, the math in this class is kept at a minimum, but we still need to know how to count things and we will learn a few simple equations!
 
 ### <span style="line-height: 20.3999996185303px;">The scientific notation</span>
 
