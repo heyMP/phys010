@@ -1,4 +1,6 @@
-I would like to emphasize one part of the academic integrity principle of Penn State about plagiarism. ![no cut and paste](https://online.science.psu.edu/sites/default/files/phys010/cutpaste.png)
+I would like to emphasize one part of the academic integrity principle of Penn State about plagiarism. 
+
+![no cut and paste](https://online.science.psu.edu/sites/default/files/phys010/cutpaste.png)
 
 Of course all the academic integrity principles are important (like cheating) but plagiarism is the most misunderstood. Students may plagiarize without even being aware of it and this is still a violation of academic principles.
 
