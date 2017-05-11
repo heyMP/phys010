@@ -1,6 +1,6 @@
 Image Here
 
-\[ciscode\|rev=1\|tool=elmsmedia\|item=291\|entity\_type=node\|render=display\_mode\|display\_mode=image\_\_left\]
+[ciscode\|rev=1\|tool=elmsmedia\|item=291\|entity\_type=node\|render=display\_mode\|display\_mode=image\_\_left\]
 
 Prof. Louis Leblond  
 office 814-865-5233  
