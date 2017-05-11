@@ -5,11 +5,9 @@ Image Here
 Prof. Louis Leblond  
 office 814-865-5233  
 [lul29@psu.edu](mailto:lul29@psu.edu?subject=Phys10 Instr. page%3A)
+http://www.phys.psu.edu/people/lul29
 
-## How to Contact Me
 
-* For administrative questions, you should just email me at [lul29@psu.edu](mailto:lul29@psu.edu?subject=Phys10 Instr. page%3A)
-* for any physics questions, you can ask on [Canvas](https://psu.instructure.com/courses/1800051), our discussion forum.
 
 
 

@@ -26,7 +26,7 @@ Throughout, the class, we will discuss recent news event.
 
 [ciscode\|rev=1\|tool=elmsmedia\|item=406\|entity\_type=node\|render=display\_mode\|display\_mode=image\]
 
-## Why is this class important for you?
+### Why is this class important for you?
 
 There is a lot to say but nobody said it better than Carl Sagan in this interview.
 
