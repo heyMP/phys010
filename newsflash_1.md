@@ -2,21 +2,9 @@ Read the following article: [Moving Atoms](http://www.nytimes.com/1990/04/05/us/
 
 ![Iron atoms on copper substrate](https://online.science.psu.edu/sites/default/files/phys010/W1atoms/irononcopper.jpg)
 
-<div class="question">Q In the article you just read, which atoms did the scientists move?
+<iframe src="https://h5p.org/h5p/embed/74912" width="1090" height="319" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-1. [nickel](#)**No.** The crystal of Nickel is the solid on which the IBM name stand.
-2. [IBM](#)**No.** IBM is a company, not an atom.
-3. [xenon](#)**Yes!** Xenon is an atom in the noble gas family. This is indeed the type of atom they moved.
-4. [electron](#)**No.** Electrons are inside every atoms.
- 
-</div><div class="question">Q What kind of device did they use to move them?
-
-1. [a fork](#)**No.** That would be hard.
-2. [laser](#)**No.** That would be hard.
-3. [scanning tunneling microscope](#)**Correct!** Indeed! We will encounter this type of microscope when we start learning quantum mechanics. Here the IBM scientist did not use the device as a microscope, instead they realize they could use the tip of the needle to move one atom at a time!
-4. [Electromagnetic fields](#)**No.** That would be hard.
- 
-</div>### 
+<iframe src="https://h5p.org/h5p/embed/74922" width="1090" height="403" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### External Resources. 
 
