@@ -1,4 +1,4 @@
-Read the following article:[Moving Atoms](http://www.nytimes.com/1990/04/05/us/2-researchers-spell-ibm-atom-by-atom.html?pagewanted=print&src=pm)
+Read the following article: [Moving Atoms](http://www.nytimes.com/1990/04/05/us/2-researchers-spell-ibm-atom-by-atom.html?pagewanted=print&src=pm)
 
 ![Iron atoms on copper substrate](https://online.science.psu.edu/sites/default/files/phys010/W1atoms/irononcopper.jpg)
 

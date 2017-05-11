@@ -28,10 +28,6 @@ In the real world, you can get sued, lose your job or lose your reputation. You 
 
 For students at Penn State, **plagiarism will** result sanctions. For more on academic integrity see http://science.psu.edu/current-students/Integrity/Policy.html 
 
-### Images and movies on this website.
-
-All images and movies on this website were either created by the instructor, are under a creative common license or came from the textbook. 
-
 ### External Resources
 
 - Wikipedia is the main source of plagiarism (and the easiest to spot). Here is a **very good** video from the PSU library: [How to use Wikipedia](https://www.libraries.psu.edu/psul/tutorials/wikipedia.html).
