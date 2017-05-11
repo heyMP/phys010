@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Lessons](lessons.md)
-        * [Week 1: Atoms and Particles](week_1_atoms_and_particles.md)
+    * [Week 1: Atoms and Particles](week_1_atoms_and_particles.md)
                 * [Instructor](instructor.md)
                 * [Introduction and Concept Map](introduction_and_concept_map.md)
                 * [The Brain and Physics](the_brain_and_physics.md)
