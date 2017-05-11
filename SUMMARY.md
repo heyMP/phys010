@@ -16,4 +16,3 @@
         * [Building Atoms in the Lab](building_atoms_in_the_lab.md)
         * [Week 1 Summary](week_1_summary.md)
         * [Extras](extras.md)
-
