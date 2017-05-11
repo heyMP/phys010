@@ -2,18 +2,18 @@
 
 Richard Feynman was a great physicist of the 20th century. He was also a good physics teacher and he emphasizes in 1963 that if some cataclysm was to destroy all scientific knowledge, the statement that carries the most information in the least words that we would want send to the next generation might be.
 
-“All things are made of atoms--little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another”
+> "All things are made of atoms--little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another”
 
 It took a really long time before the atomic theory was accepted. Now we are able to move and see single atoms at a time. 
 
-### What Are Atoms?
+#### What Are Atoms?
 
 Here are a few important things to remember about atoms.
 
-Atoms are incredibly small.
-Atoms are numerous.
-Atoms are ageless.
-Atoms get around and move constantly.
+* Atoms are incredibly small.
+* Atoms are numerous.
+* Atoms are ageless.
+* Atoms get around and move constantly.
 
 We have already discussed how small atoms are. One atom is about 0.1 nanometer in size $0.1\times10^{−9}=10^{−10}$.  What about numerous? How many atoms are there in the Universe?
 
