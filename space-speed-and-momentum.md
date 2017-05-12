@@ -2,13 +2,13 @@ Physics is about energy and motion. A lot of what makes physics hard in higher l
 
 Analyzing three dimensional motion (or 2 dimensional motion) can be technical but does not bring very many new concepts. 
 
-** In this class**, we will almost always describe motion in one dimension. When we discuss motion in more than 1 dimension, it will alway be qualitative. 
+**In this class**, we will almost always describe motion in one dimension. When we discuss motion in more than 1 dimension, it will alway be qualitative. 
 
 So imagine we live in a Universe that is a single line. The online place you can go is right or left. 
 
 [ciscode|rev=1|tool=elmsmedia|item=2054|entity_type=node|render=display_mode|display_mode=image]
 
-We can denote our position on this line using a label $x$. We can call our home the $x=0$ spot and everything to the right is positive $x$ values while everything to the left is negative $x$ value. ** To prevent confusions, we will always take $x$ to increase to the right.**
+We can denote our position on this line using a label $x$. We can call our home the $x=0$ spot and everything to the right is positive $x$ values while everything to the left is negative $x$ value. **To prevent confusions, we will always take $x$ to increase to the right.**
 
 Lets look at the rocket motion we saw in the first "promo" video in this week lesson. This is a motion on a line. The rocket started from rest and kept moving faster and faster each time from left to right.  
 
@@ -34,4 +34,4 @@ We can connect the dots by a line that goes thru all of them. The end result is
 
 [ciscode|rev=1|tool=elmsmedia|item=2064|entity_type=node|render=display_mode|display_mode=image]
 
-Which is a parabola in this instance. Note that the shape of the graph has nothing to do with what the actual motion looked like. The motion was on a line, the graph is in 2 dimensions. The graph is a **representation** of the motion. 
+Note that the shape of the graph has nothing to do with what the actual motion looked like. The motion was on a line, the graph is in 2 dimensions. The graph is a **representation** of the motion. 
