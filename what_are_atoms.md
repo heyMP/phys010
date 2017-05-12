@@ -1,10 +1,10 @@
 <iframe src="https://h5p.org/h5p/embed/74947" width="1090" height="377" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-Richard Feynman was a great physicist of the 20th century. He was also a good physics teacher and he emphasizes in 1963 that if some cataclysm was to destroy all scientific knowledge, the statement that carries the most information in the least words that we would want send to the next generation might be.
+Richard Feynman, a well known physicist of the 20th century once said that if some cataclysm was to destroy all scientific knowledge, the statement that carries the most information in the least words that we would want send to the next generation might be.
 
 > "All things are made of atoms--little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another”
 
-It took a really long time before the atomic theory was accepted. Now we are able to move and see single atoms at a time. 
+The idea of atoms goes back to the greek (Democratus). It took a really long time before the atomic theory was accepted. Now we are able to move and see single atoms at a time. 
 
 #### What Are Atoms?
 
@@ -19,24 +19,9 @@ We have already discussed how small atoms are. One atom is about 0.1 nanometer i
 
 #### Atoms are Numerous
 
-There are about 100,000,000,000,000,000,000,000 atoms in twenty grams of water (each gram is a drop of water). In scientific notation this is $$10^23$$ also often known as a mole. This is a huge number. A really, really huge number.
+There are about 100,000,000,000,000,000,000,000 atoms in twenty grams of water (each gram is a drop of water). In scientific notation this is $10^23$ also often known as a mole. This is a huge number. A really, really huge number.
 
-Q. Which statement is true?
-
-There are more atoms in a drop of water than the number of stars in our galaxy.
-True but incorrect answer
-
-There are more atoms in a drop of water than the number of drops of water in all lakes, rivers and oceans on the planet.
-True but incorrect answer
-
-There are about as many atoms of air in your lungs as there are breaths full of air in the atmosphere.
-True but incorrect answer
-
-They are all true.
-Correct! This is the correct answer. There is almost a mole (a little less  1022 1022) of atoms of air in your lungs and there are about the same 10221022 number of litters in the atmosphere. There are about 10111011 stars in our galaxy, so there are many many more atoms in a drop of water than stars in our galaxy.
-
-Sophie: Wow that's a lot of atoms!
-Marie: It is quite incredible indeed.
+<iframe src="https://h5p.org/h5p/embed/75090" width="1083" height="495" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 #### Atoms are Ageless
 
