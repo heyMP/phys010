@@ -8,4 +8,8 @@ So imagine we live in a Universe that is a single line. The online place you can
 
 [Fig line]
 
-We can denote our positio
+We can denote our position on this line using a label $x$. We can call our home the $x=0$ spot and everything to the right is positive x values while everything to the left is negative x value.
+
+Lets look at the rocket motion we saw in the first "promo" video on this page. This is a motion on a line. The rocket started from rest and kept moving faster and faster each time. 
+
+
