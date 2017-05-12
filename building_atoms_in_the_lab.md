@@ -15,14 +15,3 @@ The goal is to build atoms by adding protons/neutrons and electrons. The applet 
 <div style="position: relative; width: 300px; height: 226px;">[![Build an Atom](http://phet.colorado.edu/sims/build-an-atom/build-an-atom-screenshot.png)](http://phet.colorado.edu/sims/build-an-atom/build-an-atom_en.jnlp)
 
 <div style="position: absolute; width: 200px; height: 80px; left: 50px; top: 73px; background-color: #FFF; opacity: 0.6; filter: alpha(opacity = 60);"> </div> <table style="position: absolute; width: 200px; height: 80px; left: 50px; top: 73px;"><tbody><tr><td style="text-align: center; color: #000; font-size: 24px; font-family: Arial,sans-serif;">[Click to Run](http://phet.colorado.edu/sims/build-an-atom/build-an-atom_en.jnlp)</td> </tr></tbody></table></div>While playing with the applet. Try to answer the following questions
-
-<div class="question">Q. Is He 3 with 1 neutron stable?
-
-- [Show the answer](#). **Yes, Helium 3 with 1 neutron is a stable isotope.**
- 
-</div>  
-<div class="question">Q. What is the minimum of neutrons needed to make carbon a stable isotope?
-
-- [Show the answer](#). **You need at least 6 neutrons to have a stable atom of carbon. The resulting isotope is Carbon-12**
- 
-</div>
