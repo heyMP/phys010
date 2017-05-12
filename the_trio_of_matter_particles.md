@@ -1,4 +1,4 @@
-### Masses
+### Mass
 
 We observe that some objects or particle are easier to move than others. The resistance to changing the state of motion (either stopping or accelerating) is called inertia. 
 
