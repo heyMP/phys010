@@ -6,8 +6,7 @@ We can also create new atoms (new elements on the periodic table) by smashing pr
 
 Many of the elements with atomic numbers above 100 are synthetic (and most of them have no use). See the [WebElements website](http://www.webelements.com/) to learn more about each elements if you are curious. Plutonium is a synthesized element. All the natural plutonium there was on Earth originally has decayed by now (plutonium is very radioactive). If you want plutonium (and. really. you don't), you have to create it in the lab which is unfortunately what nuclear reactors do. In nuclear reactors, plutonium is an unwanted radioactive waste.
 
-Building Atoms
---------------
+### Building Atoms
 
 Open the applet below (this is a JAVA which you will need to enable on your computer before we go on). If the file does not work right away from clicking on the image below, you can download the .jar file from the download button at this [page](http://phet.colorado.edu/en/simulation/build-an-atom).
 
