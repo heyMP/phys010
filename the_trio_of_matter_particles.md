@@ -2,12 +2,12 @@
 
 We observe that some objects or particle are easier to move than others. The resistance to changing the state of motion (either stopping or accelerating) is called inertia. 
 
-We can quantify the inertia of various objects with a parameter, the inertia mass or just the mass. 
-An object with more mass has more inertia and is thus harder to stop is already moving or to accelerate if not moving. 
+We can quantify the inertia of various objects with a parameter, the inertial mass or just the mass. 
+An object with more mass has more inertia and is thus harder to stop if it is already moving or to accelerate if it is not moving. 
 
-The unit for mass is the kilogram (denoted) kg. This is the SI unit where SI stands for Systeme International. This is the standard used in science and what we will often use in this class. 
+The unit for mass is the kilogram (denoted) kg. This is the SI unit where SI stands for Systeme International. This is the standard unit used in science and what we will often use in this class. 
 
-To give you a sense of scale, a typical human as a mass of 75 kg. Since the atoms are really small, they have a a correspondingly small mass.
+To give you a sense of scale, a typical human as a mass of 75 kg. Since the atoms are really small, they have a correspondingly very small mass.
  
 ### Atoms are made of three basic particles.
 
@@ -16,9 +16,6 @@ To give you a sense of scale, a typical human as a mass of 75 kg. Since the atom
 - **Neutrons**: The neutron is very much like the proton. The main crucial difference is that the neutron is electrically neutral. It had not electric charge (we say it is neutral) and its mass is $1.7\times 10^{-27}$ kg (almost the same as the protons and thus much heavier than the electron). 
 
 ### Putting Them Together
-
-
-The simplest atom, Hydrogen, is just an electron and a proton. This image is not to scale</div></div>
 
 The simplest of all atom is hydrogen. It is also the most common atom in the Universe (~ 70% of all atoms in the Universe are hydrogen). Ironically, you cannot find pure hydrogen on Earth (there is a -physics- reason for that -- see your book!).
 
@@ -32,7 +29,7 @@ Around the nucleus, electrons are moving around. In what is called the "Bohr mod
 
 The reason why electrons orbit the nucleus is because of their electric charge. They have a negative electric charge while the nucleus contain protons which have positive electric charge. Opposite attracts and so the electron wants to stick around the proton. It is always moving though so the electron does not actually collide with the nucleus (which is very very small) and instead it just hovers and orbits around it.
 
-In addition to protons (with positive electric charge) and electrons (with negative electric charge), the nucleus contains neutrons which have neutral charge.
+In addition to protons (with positive electric charge) and electrons (with negative electric charge), the nucleus contains neutrons who are neutral.
 
 - Sophie: Hey Marie, I have a question.
 - Marie: Shoot!
