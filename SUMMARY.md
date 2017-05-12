@@ -11,6 +11,7 @@
     * [What are Atoms?](what_are_atoms.md)
     * [The Trio of Matter Particles](the_trio_of_matter_particles.md)
     * [Building Atoms in the Lab](building_atoms_in_the_lab.md)
+    * [Space, speed and momentum](space-speed-and-momentum.md)
     * [Week 1 Summary](week_1_summary.md)
   * [End of Lessons](README.md)
 
