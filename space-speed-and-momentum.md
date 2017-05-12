@@ -2,7 +2,7 @@ Physics is about energy and motion. A lot of what makes physics hard in higher l
 
 Analyzing three dimensional motion (or 2 dimensional motion) can be technical but does not bring very many new concepts. 
 
-**In this class**, we will almost always describe motion in one dimension. When we discuss motion in more than 1 dimension, it will alway be qualitative. 
+**In this class**, we will almost always describe motion in one dimension. When we discuss motion in more than one dimension, it will alway be qualitative. 
 
 So imagine we live in a Universe that is a single line. The online place you can go is right or left. 
 
