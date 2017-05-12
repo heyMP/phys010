@@ -48,12 +48,11 @@ To get a sense of scale and how big and small things compare, look at the follow
 - The [One More Level Scale of the Universe website](http://www.onemorelevel.com/game/scale_of_the_universe_2012) offers a game that lets you zoom in and out in the universe.
 [comment]:<> (used to have a link to order of magnitude)
 
-> In some of the questions in this class, you will see $ signs, this is where equations are meant to be and we are working on making them show up well in the questions. For the moment, just remember that 10^2 means $10^2$. 
+In some of the questions in this class, you will see $ signs, this is where equations are meant to be and we are working on making them show up well in the questions. For the moment, just remember that 10^2 means $10^2$. 
 
 <iframe src="https://h5p.org/h5p/embed/74441" width="1090" height="289" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-</div>Systems of Units
-----------------
+### Systems of Units
 
 Many choices are possible for the three basic units of length, mass and time:
 
