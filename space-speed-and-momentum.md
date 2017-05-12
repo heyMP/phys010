@@ -4,6 +4,8 @@ Analyzing three dimensional motion (or 2 dimensional motion) can be technical bu
 
 ** In this class**, we will almost always describe motion in one dimension. When we discuss motion in more than 1 dimension, it will alway be qualitative. 
 
-So imagine we live in a Universe that is line. The online place you can go is right or left. 
+So imagine we live in a Universe that is a single line. The online place you can go is right or left. 
 
 [Fig line]
+
+We can denote our positio
