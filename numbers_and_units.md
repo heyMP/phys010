@@ -43,9 +43,7 @@ When you multiply or add large numbers in exponential forms, you just add or sub
 
 ### A Sense of Scale
 
-To get a sense of scale and how big and small things compare, look at the following web resources
-
-- The [One More Level Scale of the Universe website](http://www.onemorelevel.com/game/scale_of_the_universe_2012) offers a game that lets you zoom in and out in the universe.
+To get a sense of scale and how big and small things compare, look at the following web resources. The [One More Level Scale of the Universe website](http://www.onemorelevel.com/game/scale_of_the_universe_2012) offers a game that lets you zoom in and out in the universe.
 
 > In some of the questions in this class, you will see $ signs, this is where equations are meant to be and we are working on making them show up well in the questions. For the moment, just remember that 10^2 means $10^2$. 
 
