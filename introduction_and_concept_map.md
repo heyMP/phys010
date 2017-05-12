@@ -5,12 +5,13 @@ Here are the main physics concepts we will discuss in this class. Throughout, we
 The class is divided in three units:
 
  **Unit 1: The basic building blocks of Nature:** These are 
-   1. Particles
-   2. Waves
-   3. Energy
-   4. Momentum
-   5. Space
-   6. Time
+
+1. Particles
+2. Waves
+3. Energy
+4. Momentum
+5. Space
+6. Time
 
 In one sentence:
 
