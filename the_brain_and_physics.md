@@ -20,4 +20,4 @@ This course is about reasoning about physics - what are the big ideas (there is 
 
 ### The Scientific Method
 
-![the difference between scientists and normal people](https://online.science.psu.edu/sites/default/files/phys010/intro/the_difference.png)
+[ciscode|rev=1|tool=elmsmedia|item=1050|entity_type=node|render=display_mode|display_mode=image]
