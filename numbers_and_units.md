@@ -19,7 +19,7 @@ which is the distance taken by a few atoms.
 
 [ciscode|rev=1|tool=elmsmedia|item=354|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail]
 
-I could have written nanometer as 0.000000001 meters but it is hard to see with your eyes exactly how many zeros there are, so scientists just write $10^{-9}$. The minus signs indicates that this is smaller than 1 so there is a decimal and as you can see above there are 9 zeros (including the first one before the decimal).
+I could have written nanometer as 0.000000001 meters but it is hard to see with your eyes exactly how many zeros there are, so scientists just write. The minus signs indicates that this is smaller than 1 so there is a decimal and as you can see above there are 9 zeros (including the first one before the decimal).
 
 Another example is $10^{-2}$ which is 0.01, there are 2 zeros.
 
