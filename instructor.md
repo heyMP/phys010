@@ -7,5 +7,5 @@ I will introduce myself on our first discussion board. I hope you do as well!
 Prof. Louis Leblond  
 office 814-865-5233  
 email: [lul29@psu.edu](mailto:lul29@psu.edu)
-webapge: [http://www.phys.psu.edu/people/lul29](http://www.phys.psu.edu/people/lul29)
+webpage: [http://www.phys.psu.edu/people/lul29](http://www.phys.psu.edu/people/lul29)
 
