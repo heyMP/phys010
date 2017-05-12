@@ -1,5 +1,6 @@
-Atoms are made of three basic particles.
-----------------------------------------
+### Masses
+
+### Atoms are made of three basic particles.
 
 - **Electrons**: Our good friend the electron will be with us for the whole class. The electron has no fundamental substructure as far as we know. It is truly a fundamental particle and its motion is the source of all electricity in your daily life. We will study the electron a lot in this class. It has electric charge -1, it has a mass of \(9 \times10^{-31}\)kg.
 - **Protons**. The proton is much bigger and much more massive than the electron. It is not truly fundamental, it is made of something else but this won't matter for us now. It has electric charge +1 and a mass of \(1.7\times 10^{-27}\) kg. It is 2000 times heavier than the electron!
