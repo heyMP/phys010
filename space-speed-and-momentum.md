@@ -14,4 +14,7 @@ Lets look at the rocket motion we saw in the first "promo" video on this page. T
 
 To represent this motion, first imagine that the rocket and me are represented by a single point (imagine that we have no size). We can then do a series of snapshot of where the rocket at equal interval of time. This may look like. 
 
-This figure is very informative. It tell us the position of the rockets at different instant of time. 
+This figure is very informative. It tell us the position of the rockets at different instant of time. Since the interval of time are equal we see that the rocket car traveled a bigger distance between time 4 and time 5 than it did between time 1 and time 2. The speed was greater toward the end than it was at the beginning. The rocket car was _accelerating_. 
+
+## Graphs 
+In science we often like to use graph and we wi
