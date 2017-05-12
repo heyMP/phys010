@@ -31,19 +31,20 @@ Now, it is technically possible to create new atoms out of old ones by nuclear f
 
 #### Atoms Get Around
 
-Atoms are constantly in motion. As we will see, just how much in motion is a measure of the temperature of the material. This constant jiggling that atoms do is how we first detected them. This is called Brownian motion and you can see this in your home! If you look at a peckle of dust (itself made of numerous atoms) in the air (assuming no draft), you will notice that it just wanders around sometimes changing completely its direction.
+Atoms are constantly in motion. As we will see, just how much in motion is a measure of the temperature of the material. This constant jiggling that atoms do is how we first detected them. This is called Brownian motion and you can see this in your home! If you look at a small piece of dust (itself made of numerous atoms) in the air (assuming no wind), you will notice that it just wanders around sometimes changing completely its direction.
 
 This is because the atoms in the air are continuously bouncing off the dust particles. The net effect is that the dust particle ends up moving randomly. This is shown in Fig 3 and we call this random motion, Brownian motion.
 
-Figure 3
-Brownian motion. A dust particle (itsef made of many atoms) undergoes a random walk due to incessant bouncing from the atoms in the air.
+[ciscode|rev=1|tool=elmsmedia|item=801|entity_type=node|render=display_mode|display_mode=image]
+
+Brownian motion. A dust particle (itself made of many atoms) undergoes a random walk due to incessant bouncing from the atoms in the air.
 Random movement of a dust particle being hit constantly by jiggling atoms
 
 Atoms move and their speed varies upon the state of matter (liquid, solid or gas) and on the amount of energy in the system. We will discuss in more details the various states of matter and the notion of energy and temperature but let us first get an idea of the approximate speed of atoms in the air around you.
 
 This is easy to figure out. When you see a lightning outside. It often takes a while to hear a thunder.
 
-[lightning hit a tree figure]
+[ciscode|rev=1|tool=elmsmedia|item=802|entity_type=node|render=display_mode|display_mode=image__left__circle]
 
 Sophie (S): I know my parents told me when I was young.  For every 5 seconds between the lightning flash and the thunder, the storm is 1 mile away. 10 seconds delay, the storm is 2 miles away.  
 Marie (M): That's right. This is because light travels super fast while sound is slower. From what your parents told you, you can determine the speed of sound.
