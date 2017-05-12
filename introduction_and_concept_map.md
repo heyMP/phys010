@@ -31,5 +31,6 @@ Throughout, the class, we will discuss recent news event.
 
 There is a lot to say but nobody said it better than Carl Sagan in this interview.
 
-[ciscode|rev=1|tool=elmsmedia|item=353|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail]
 
+
+[ciscode|rev=1|tool=elmsmedia|item=2058|entity_type=node]
