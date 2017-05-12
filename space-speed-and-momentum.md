@@ -6,30 +6,32 @@ Analyzing three dimensional motion (or 2 dimensional motion) can be technical bu
 
 So imagine we live in a Universe that is a single line. The online place you can go is right or left. 
 
-[Fig line]
+[ciscode|rev=1|tool=elmsmedia|item=2054|entity_type=node|render=display_mode|display_mode=image]
 
 We can denote our position on this line using a label $x$. We can call our home the $x=0$ spot and everything to the right is positive $x$ values while everything to the left is negative $x$ value. ** To prevent confusions, we will always take $x$ to increase to the right.**
 
-Lets look at the rocket motion we saw in the first "promo" video on this page. This is a motion on a line. The rocket started from rest and kept moving faster and faster each time. 
+Lets look at the rocket motion we saw in the first "promo" video in this week lesson. This is a motion on a line. The rocket started from rest and kept moving faster and faster each time from left to right.  
 
-To represent this motion, first imagine that the rocket and me are represented by a single point (imagine that we have no size). We can then do a series of snapshot of where the rocket at equal interval of time. 
+To represent this motion, first imagine that the rocket and me are represented by a single point (imagine that we have no size). We can then do a series of snapshots of where the rocket car is at equal interval of time. 
 
- [motion diagram] 
+[ciscode|rev=1|tool=elmsmedia|item=2055|entity_type=node|render=display_mode|display_mode=image__boxed]
 
-This figure is very informative. It tell us the position of the rockets at different instant of time. Since the interval of time are equal we see that the rocket car traveled a bigger distance between time 4 and time 5 than it did between time 1 and time 2. The speed was greater toward the end than it was at the beginning. The rocket car was _accelerating_. 
+This figure is very informative. It tell us the position of the rocket car at different instant of time. Since the interval of times are equal we see that the rocket car traveled a bigger distance between time 4 and time 5 than it did between time 1 and time 2. The speed was greater toward the end than it was at the beginning. The rocket car was _accelerating_. 
 
 ## Graphs 
-In science, we often like to use graphs to represent and visualize information. A graph is an abstract, conventional way of presenting something to an audience. A usual graph has two axis for example here is a positive versus time graph. 
 
-[graph]
+In science, we often like to use graphs to represent and visualize information. A graph is an abstract, conventional way of presenting scientific information to an audience. A common graph has two axis. For example here is a positive versus time graph. 
 
-** It is very important to carefully determine what the vertical and the horizontal axis mean when you first see a graph **
+Fig
+
+** Hint: When you see a graph for the first time, start by determining what the vertical and horizontal axis represent!
 
 So, for example we could decide to do a position versus time graph for the rocket car. To do that, we put points on the graph where vertical heights represent position and horizontal distance represents time. To help me do this correctly, I can turn the previous image with the x axis horizontal and move it to being vertical. Then I separate each point at equal horizontal spacing for each time. This gives the following graph.
 
-[graph draft]
+[ciscode|rev=1|tool=elmsmedia|item=2056|entity_type=node|render=display_mode|display_mode=image]
 
 We can connect the dots by a line that goes thru all of them. The end result is 
 
+Fig
 
-Which is a parabola in this instance. Note that the shape of the graph has nothing to do with what the actual motion looks like. The motion was on a line, the graph is in 2 dimensions. The graph is a **representation** of the motion. 
+Which is a parabola in this instance. Note that the shape of the graph has nothing to do with what the actual motion looked like. The motion was on a line, the graph is in 2 dimensions. The graph is a **representation** of the motion. 
