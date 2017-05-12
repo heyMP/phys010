@@ -1,6 +1,6 @@
 I would like to emphasize one part of the academic integrity principle of Penn State about plagiarism. 
 
-![no cut and paste](https://online.science.psu.edu/sites/default/files/phys010/cutpaste.png)
+[ciscode|rev=1|tool=elmsmedia|item=1052|entity_type=node|render=display_mode|display_mode=image]
 
 Of course all the academic integrity principles are important (like cheating) but plagiarism is the most misunderstood. Students may plagiarize without even being aware of it and this is still a violation of academic principles.
 
@@ -22,7 +22,7 @@ These are pretty clear cut violations of Penn State academic principles. What ab
 
 <iframe src="https://h5p.org/h5p/embed/74906" width="1090" height="484" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
  
-_How to avoid this._ Be careful at how you take notes!!
+**How to avoid this.** Be careful at how you take notes!!
 
 ### Consequences of Plagiarism
 
