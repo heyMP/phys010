@@ -24,7 +24,6 @@ The full list of objectives can be found on Canvas
 1. LOPro01 read and interpret graphs and data
 2. LOPro02 calculate with large and small numbers using the scientific notation.
 3. LOPW01 recall the properties of electrons, protons and neutrons. 
-4. LONrgM08 calculate the momentum of a particle in one dimension with appropriate care for direction
 
 All readings and assignments can be found on Canvas. 
 

@@ -12,13 +12,24 @@ We can denote our position on this line using a label $x$. We can call our home 
 
 Lets look at the rocket motion we saw in the first "promo" video on this page. This is a motion on a line. The rocket started from rest and kept moving faster and faster each time. 
 
-To represent this motion, first imagine that the rocket and me are represented by a single point (imagine that we have no size). We can then do a series of snapshot of where the rocket at equal interval of time. This may look like. 
+To represent this motion, first imagine that the rocket and me are represented by a single point (imagine that we have no size). We can then do a series of snapshot of where the rocket at equal interval of time. 
+
+ [motion diagram] 
 
 This figure is very informative. It tell us the position of the rockets at different instant of time. Since the interval of time are equal we see that the rocket car traveled a bigger distance between time 4 and time 5 than it did between time 1 and time 2. The speed was greater toward the end than it was at the beginning. The rocket car was _accelerating_. 
 
 ## Graphs 
 In science, we often like to use graphs to represent and visualize information. A graph is an abstract, conventional way of presenting something to an audience. A usual graph has two axis for example here is a positive versus time graph. 
 
+[graph]
+
 ** It is very important to carefully determine what the vertical and the horizontal axis mean when you first see a graph **
 
-So, for example we could decide to do a position versus time graph for the rocket car. To do that we just puts points on the graph where vertical heights represent position and horizontal distance represents time. To help me do this correctly, I can just turn the previous image with the x axis horizontal and move that to being vertical. Then I separate each point at equal horizontal spacing to  This looks like 
+So, for example we could decide to do a position versus time graph for the rocket car. To do that, we put points on the graph where vertical heights represent position and horizontal distance represents time. To help me do this correctly, I can turn the previous image with the x axis horizontal and move it to being vertical. Then I separate each point at equal horizontal spacing for each time. This gives the following graph.
+
+[graph draft]
+
+We can connect the dots by a line that goes thru all of them. The end result is 
+
+
+Which is a parabola in this instance. Note that the shape of the graph has nothing to do with what the actual motion looks like. The motion was on a line, the graph is in 2 dimensions. The graph is a **representation** of the motion. 
