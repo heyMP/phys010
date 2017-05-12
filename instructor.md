@@ -1,6 +1,6 @@
 Image Here
 
-\[ciscode\|rev=1\|tool=elmsmedia\|item=291\|entity\_type=node\|render=display\_mode\|display\_mode=image\_\_left\]
+[ciscode|rev=1|tool=elmsmedia|item=291|entity_type=node|render=display_mode|display_mode=image__left]
 
 I will introduce myself on our first discussion board. I hope you do as well!
 
