@@ -15,26 +15,26 @@ which is the distance taken by a few atoms.
 - Sophie (S): You mean the exponent? By the way, I thought there was no math in this class.
 - M: Yes. I mean, yes, the exponent--and, yes, the math in this class is kept at a minimum, but we still need to know how to count things and we will learn a few simple equations!
 
-### <span style="line-height: 20.3999996185303px;">The scientific notation</span>
+### The scientific notation
 
 [ciscode|rev=1|tool=elmsmedia|item=354|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail]
 
-I could have written nanometer as 0.000000001 meters but it is hard to see with your eyes exactly how many zeros there are, so scientists just write \(10^{-9}\). The minus signs indicates that this is smaller than 1 so there is a decimal and as you can see above there are 9 zeros (including the first one before the decimal).
+I could have written nanometer as 0.000000001 meters but it is hard to see with your eyes exactly how many zeros there are, so scientists just write $10^{-9}$. The minus signs indicates that this is smaller than 1 so there is a decimal and as you can see above there are 9 zeros (including the first one before the decimal).
 
-Another example is $$10^{-2}$$ which is 0.01, there are 2 zeros.
+Another example is $10^{-2}$ which is 0.01, there are 2 zeros.
 
-If the number in the exponent is positive then there is no decimal. For example \(10^3\) is a 1 followed by 3 zeros or also known as a thousand: 1000. We also often call \(10^3\) a kilo something. A kilometer is \(10^3\) meters or 1000 meters. These are all the same.
+If the number in the exponent is positive then there is no decimal. For example $10^3$ is a 1 followed by 3 zeros or also known as a thousand: 1000. We also often call $10^3$ a kilo something. A kilometer is $10^3$ meters or 1000 meters. These are all the same.
 
 Note that up to now we used only 1 and 0, but of course we could have
 
-3 kilometers, which is $$3 \times 10^3$$ meters or 3000 meters.  
-6 nanometers, which is $$6 \times 10^{-9}$$ meters or 0.000000006 meters.
+3 kilometers, which is $3 \times 10^3$ meters or 3000 meters.  
+6 nanometers, which is $6 \times 10^{-9}$ meters or 0.000000006 meters.
 
 When you multiply or add large numbers in exponential forms, you just add or subtract the exponents!
 
-**Example problem:** Let's say, I put side by side on a line $$10^{23}$$ atoms (this is called a mole of atoms) and let's say these are atoms of helium which are roughly $$10^{-10}$$ meters in size. How long would the line be?
+**Example problem:** Let's say, I put side by side on a line $10^{23}$ atoms (this is called a mole of atoms) and let's say these are atoms of helium which are roughly $10^{-10}$ meters in size. How long would the line be?
 
-- S: That's not too hard. I just multiply the number of atoms times the size per each atom like this $$10^{23}$$ atoms $$\times$$ $$10^{−10}$$ meter/per atom. That gives $$10^{23−10}=10^{13}$$ meters.
+- S: That's not too hard. I just multiply the number of atoms times the size per each atom like this $10^{23}$ atoms $\times 10^{−10}$ meter/per atom. That gives $10^{23−10}=10^{13}$ meters.
 - M: Good! There is one last step. Whenever you are done with a calculation, you need to step back and think about your answer. What do you think of the number?
 - S: Hmm. . . It's large.
 - M: Indeed, it's huge! The line would stretch 10,000 times around the whole circumference of the Earth. Yet you have many, many moles of water molecule in a glass water, how does that make sense?
@@ -51,7 +51,6 @@ To get a sense of scale and how big and small things compare, look at the follow
 By looking at the last link. Can you answer the following question?
 
 <iframe src="https://h5p.org/h5p/embed/74441" width="1090" height="289" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-<div class="question">Q. In meters, what is the order of magnitude size of the Earth (at the equator)?
 
 </div>Systems of Units
 ----------------
