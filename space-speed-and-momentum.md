@@ -4,7 +4,7 @@ Analyzing three-dimensional motion (or 2 dimensional motion) can be technical bu
 
 **In this class**, we will almost always describe motion in one dimension. When we discuss motion in more than one dimension, it will always be qualitative. 
 
-Imagine we live in a Universe that is a single line. The online place you can go is right or left. 
+Imagine we live in a Universe that is a single line. You can only move right/left (or up/down say). 
 
 [ciscode|rev=1|tool=elmsmedia|item=2054|entity_type=node|render=display_mode|display_mode=image]
 
