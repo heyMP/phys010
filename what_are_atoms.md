@@ -43,7 +43,7 @@ Atoms move and their speed varies upon the state of matter (liquid, solid or gas
 
 This is easy to figure out. When you see a lightning outside. It often takes a while to hear a thunder.
 
-lightning hit a tree
+[lightning hit a tree figure]
 
 Sophie (S): I know my parents told me when I was young.  For every 5 seconds between the lightning flash and the thunder, the storm is 1 mile away. 10 seconds delay, the storm is 2 miles away.  
 Marie (M): That's right. This is because light travels super fast while sound is slower. From what your parents told you, you can determine the speed of sound.
