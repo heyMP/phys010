@@ -1,6 +1,11 @@
 ### Masses
 
-The first important physical property
+We observe that some objects or particle are easier to move than others. The resistance to changing the state of motion (either stopping or accelerating) is called inertia. 
+
+We can quantify the inertia of various objects with a parameter, the inertia mass or just the mass. 
+An object with more mass has more inertia and is thus harder to stop is already moving or to accelerate if not moving. 
+
+The unit for mass is the kilogram (denoted) kg. 
 ### Atoms are made of three basic particles.
 
 - **Electrons**: Our good friend the electron will be with us for the whole class. The electron has no fundamental substructure as far as we know. It is truly a fundamental particle and its motion is the source of all electricity in your daily life. We will study the electron a lot in this class. It has a negative electric charge and it has a mass of $9 \times 10^{-31}$ kg.
