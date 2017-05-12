@@ -1,5 +1,4 @@
-Welcome to Phys 010: Physics Behind the Headlines!
---------------------------------------------------
+##Welcome to Phys 010: Physics Behind the Headlines!
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/8w1psCOZ-NU" width="560"></iframe>
 
@@ -19,8 +18,7 @@ In the weekly lessons, you will often see many discussions between Sophie and Ma
 - M: Yeah I know.... but just wondering...
 
 
-Lesson Objectives for week 1
------------------
+##Lesson Objectives for week 1
 
 The full list of objectives can be found on Canvas
 1. LOPro01 read and interpret graphs and data
@@ -30,7 +28,6 @@ The full list of objectives can be found on Canvas
 
 All readings and assignments can be found on Canvas. 
 
-News Article for week 1
-------------
+##News Article for week 1-
 
 - [Spelling IBM Atom by Atom](http://www.nytimes.com/1990/04/05/us/2-researchers-spell-ibm-atom-by-atom.html?pagewanted=print&src=pm)

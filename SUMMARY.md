@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [Lessons](lessons.md)
   * [Week 1: Atoms and Particles](week_1_atoms_and_particles.md)
     * [Introduction and Concept Map](introduction_and_concept_map.md)
@@ -16,7 +15,6 @@
     * [Week 1 Summary](week_1_summary.md)
     * [Extras](extras.md)
     * [Instructor](instructor.md)
+  * [Introduction](README.md)
   * [End of Lessons](README.md)
-
-
 
