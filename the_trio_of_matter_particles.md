@@ -17,7 +17,6 @@ To give you a sense of scale, a typical human as a mass of 75 kg. Since the atom
 
 ### Putting Them Together
 
-<div class="figurelabel"><div class="figurelabel__title">Fig 3</div><div class="figurelabel__desc">
 
 The simplest atom, Hydrogen, is just an electron and a proton. This image is not to scale</div></div>
 
