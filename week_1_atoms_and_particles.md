@@ -1,4 +1,4 @@
-##Welcome to Phys 010: Physics Behind the Headlines!
+## Welcome to Phys 010: Physics Behind the Headlines!
 
 [ciscode|rev=1|tool=elmsmedia|item=352|entity_type=node]
 
