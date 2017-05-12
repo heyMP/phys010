@@ -22,7 +22,7 @@ This figure is very informative. It tell us the position of the rocket car at di
 
 In science, we often like to use graphs to represent and visualize information. A graph is an abstract, conventional way of presenting scientific information to an audience. A common graph has two axis. For example here is a positive versus time graph. 
 
-Fig
+[ciscode|rev=1|tool=elmsmedia|item=2063|entity_type=node|render=display_mode|display_mode=image]
 
 ** Hint: When you see a graph for the first time, start by determining what the vertical and horizontal axis represent!
 
@@ -32,6 +32,6 @@ So, for example we could decide to do a position versus time graph for the rocke
 
 We can connect the dots by a line that goes thru all of them. The end result is 
 
-Fig
+[ciscode|rev=1|tool=elmsmedia|item=2064|entity_type=node|render=display_mode|display_mode=image]
 
 Which is a parabola in this instance. Note that the shape of the graph has nothing to do with what the actual motion looked like. The motion was on a line, the graph is in 2 dimensions. The graph is a **representation** of the motion. 
