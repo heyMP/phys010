@@ -2,8 +2,8 @@ In this first week, we will study our first building block of nature: matter par
 
 Fig 1 and 2 are two artistic representations of atoms that you will often encounter. Fig 1 is the old orbit model where you see electrons flying around the nucleus. As we will see later on, this is not quite right and the cloud model (Fig. 2) is a better illustration.
 
-[Fig 1-2]
-------------------
+[ciscode|rev=1|tool=elmsmedia|item=804|entity_type=node|render=display_mode|display_mode=image]
+[ciscode|rev=1|tool=elmsmedia|item=805|entity_type=node|render=display_mode|display_mode=image__right]
 
 In physics, we want to study the whole world and as you can imagine, we often end up dealing with very small and very big numbers. Of course, small or big is always in reference to something else. The atom is small compared to you but it is huge compared to the size of a proton!
 
