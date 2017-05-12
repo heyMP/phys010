@@ -2,7 +2,7 @@
 
 ### Atoms are made of three basic particles.
 
-- **Electrons**: Our good friend the electron will be with us for the whole class. The electron has no fundamental substructure as far as we know. It is truly a fundamental particle and its motion is the source of all electricity in your daily life. We will study the electron a lot in this class. It has electric charge -1, it has a mass of \(9 \times10^{-31}\)kg.
+- **Electrons**: Our good friend the electron will be with us for the whole class. The electron has no fundamental substructure as far as we know. It is truly a fundamental particle and its motion is the source of all electricity in your daily life. We will study the electron a lot in this class. It has a negative electric charge and it has a mass of \(9 \times10^{-31}\)kg.
 - **Protons**. The proton is much bigger and much more massive than the electron. It is not truly fundamental, it is made of something else but this won't matter for us now. It has electric charge +1 and a mass of \(1.7\times 10^{-27}\) kg. It is 2000 times heavier than the electron!
 - **Neutrons**: The neutron is very much like the proton. The main crucial difference is that the neutron is electrically neutral. Its electric charge is 0 and its mass is \(1.7\times 10^{-27}\) kg.
 
@@ -39,3 +39,6 @@ In addition to protons (with positive electric charge) and electrons (with negat
 4. [It's magic.](#)**No.** Not a very scientific answer, now is it?
 
 </div>
+
+Isotopes: Most elements have an equal numbers of neutron and protons, although this vary (e.g. hydrogen has one proton but no neutron). In fig 5, the number 14 is the total number of protons and neutrons which is doubled that of protons for a standard nitrogen atom. This number is often called the atomic mass number. An isotope is an element with the same number of protons but different number of neutrons. Deuterium, often called heavy hydrogen, is a common isotope of hydrogen. The nucleus has 1 proton and 1 neutron and this is a perfectly stable element. Because the nucleus is twice as heavy as normal hydrogen, deuterium is often called heavy hydrogen. When deuterium is used to make water we call the water, heavy water. This type of water is used to cool nuclear power plant for example. Tritium is another isotope of Hydrogen. It has 1 proton and 2 neutrons. It is unstable and radioactive and thus much rarer on our planet.
+Ions: Finally, an ion is an atom which has more or fewer electrons than the number of protons. If the atom has one more electron than protons, it will have a net negative charge (and we then put a negative sign next to the symbol). If one electron is taken away, it will have a net positive charge (and we put a + sign next to the symbol.)
