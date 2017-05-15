@@ -16,7 +16,7 @@ As you can see from the table, for the same mass of fuel, uranium is the big win
 [ciscode|rev=1|tool=elmsmedia|item=428|entity_type=node|render=display_mode|display_mode=image]
 
 * Marie: Do you play a sport, Sophie?
-* Sophie: Yes I play volleyball.
+* Sophie: Yes, I play volleyball.
 * M: Ah, great example. This is a sport that has more to do with power than energy.
 * M: Some sports require a lot of energy constantly, say like running. These are sports of endurance. But volleyball, or say football, often requires very quick bursts of energy release. These sports are not so much about energy, they require high power.
 
@@ -32,6 +32,6 @@ TNT has less energy per gram than cookies but it has a high power. TNT is made t
 
 #### How Much Energy and Power? 
 
-Lets see if you can estimate roughly how much energy and power are in this various circumstances.
+Let us see if you can estimate roughly how much energy and power are in this various circumstances.
 
 [ciscode|rev=1|tool=elmsmedia|item=2074|entity_type=node|render=display_mode|display_mode=image]
