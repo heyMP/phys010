@@ -1,4 +1,4 @@
-## Kinetic Energy
+### Kinetic Energy
 
 The amount of energy in a moving object can be huge (e.g. meteors). Here is a simple equation that describes this   
   
@@ -9,7 +9,7 @@ We will use the letter K to denote kinetic energy. If you put the mass of the ob
 1. If you double the mass of an object in movement, the kinetic energy will double. Massive objects that move can have massive amount of energy.
 2. If you double the speed of an object in movement, the kinetic energy quadruple (multiply by 4 because of the square). Even small objects can have huge amount of kinetic energy if they move really fast.
 
-## Newsflash 2
+### Newsflash 2
 
 Earth was recently hit by a pretty big asteroid!! How much energy did it have? Here is a link to a news article on the subject.
 
