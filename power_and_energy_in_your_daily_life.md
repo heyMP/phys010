@@ -20,8 +20,7 @@ As you can see from the table, for the same mass of fuel, uranium is the big win
 * M: Ah, great example. This is a sport that has more to do with power than energy.
 * M: Some sports require a lot of energy constantly, say like running. These are sports of endurance. But volleyball, or say football, often requires very quick bursts of energy release. These sports are not so much about energy, they require high power.
 
-Power 
-------
+### Power 
 
 Power is the rate of energy release. It is just the amount of energy that you can release over the time it takes to release it.   
   
@@ -31,51 +30,8 @@ Usain Bolt has a high power when he sprints the 100 meters in less than 10 secon
   
 TNT has less energy per gram than cookies but it has a high power. TNT is made to release its energy very quickly. TNT explodes while chocolate chip cookies require more time to release all their energy.
 
-How Much Energy and Power? 
----------------------------
+#### How Much Energy and Power? 
 
 Lets see if you can estimate roughly how much energy and power are in this various circumstances.
 
-<table align="center" style="width: 500px;" summary="Some examples of how much power you need in some daily  life circumstances. " width="419"><caption>Power Example </caption> <tbody><tr><td style="width:142px;">Value
-
- </td> <td style="width:143px;">Equivalent
-
- </td> <td style="width:275px;">Example
-
- </td> </tr><tr><td style="width:142px;">1 watt (W)
-
- </td> <td style="width:143px;">1 joule per second
-
- </td> <td style="width:275px;">flashlight
-
- </td> </tr><tr><td style="width:142px;">100 watts
-
- </td> <td style="width:143px;">100 joules per second
-
- </td> <td style="width:275px;">Bright light bulb
-
- </td> </tr><tr><td style="width:142px;">1 horsepower (hp)
-
- </td> <td style="width:143px;">1 kilowatt
-
- </td> <td style="width:275px;">Typical horse
-
- </td> </tr><tr><td style="width:142px;">20 hp
-
- </td> <td style="width:143px;">20 kilowatt
-
- </td> <td style="width:275px;">Small automobile
-
- </td> </tr><tr><td style="width:142px;">1 megawatt (1MW)
-
- </td> <td style="width:143px;">1 million watts
-
- </td> <td style="width:275px;">Electric power for a small town
-
- </td> </tr><tr><td style="width:142px;">1 gigawatt (1 GW)
-
- </td> <td style="width:143px;">1 billion watt
-
- </td> <td style="width:275px;">Large coal, gas or nuclear power plant.
-
- </td></tr></tbody></table>
+[ciscode|rev=1|tool=elmsmedia|item=2074|entity_type=node|render=display_mode|display_mode=image]
