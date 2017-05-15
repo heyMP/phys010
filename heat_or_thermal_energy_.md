@@ -1,6 +1,8 @@
-- M: The concept of heat is super important. As far as we know, energy is always conserved, and it just moves from one place to another. Some forms of energy are really useful because we can extract the energy easily. In other forms, energy can be very hard to extract and it is essentially lost. Heat is the hardest form of energy to extract. If all the energy in the Universe was in the form of heat, not much could happen.
+- M: The concept of heat or thermal energy is super important. As far as we know, energy is always conserved, and it just moves from one place to another. Some forms of energy are really useful because we can extract the energy easily. In other forms, energy can be very hard to extract and it is essentially lost. Thermal energy is the hardest form of energy to extract. If all the energy in the Universe was in the form of heat, not much could happen.
 
-<div class="small-4 medium-3 column right">[ciscode|rev=1|tool=elmsmedia|item=433|entity_type=node|render=display_mode|display_mode=image] </div><span style="line-height: 20.3999996185303px;">If you rub your hands together, they warm up. You turn kinetic energy (the motion of your hands) into heat. What happened in your hands? Well we know that our hands are made of atoms and by rubbing them together we are shaking the atoms around. This is just what heat is. Heat is the kinetic energy of the atoms.</span>
+[ciscode|rev=1|tool=elmsmedia|item=433|entity_type=node|render=display_mode|display_mode=image_right] 
+
+If you rub your hands together, they warm up. You turn kinetic energy (the motion of your hands) into heat. What happened in your hands? Well we know that our hands are made of atoms and by rubbing them together we are shaking the atoms around. This is just what heat is. Heat is the kinetic energy of the atoms.
 
 When you heat up a gas, the atoms in the gas move faster. There is an enormous amount of energy in heat.
 
