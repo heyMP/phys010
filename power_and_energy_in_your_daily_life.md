@@ -11,7 +11,7 @@ Physicists prefer the unit of Joules which is the natural unit to use in their e
 4200 Joules = 1 Calorie   
 3600 Joules = 1 Wh   
   
-As you can see from the table, for the same mass of fuel, uranium is the big winner. The energy that is accessible to us in uranium is the binding energy between neutrons and protons in the nucleus. We will learn more about this in the future but for now it is important to know that nuclear energy is often _much much_ bigger per gram than chemical energy (TNT, cookies) or energy stored in batteries.
+As you can see from the table, for the same mass of fuel, uranium is the big winner. The energy that is accessible in uranium is the binding energy between neutrons and protons in the nucleus. We will learn more about this in the future but for now it is important to know that nuclear energy is often _much much_ bigger per gram than chemical energy (TNT, cookies) or energy stored in batteries.
 
 <div class="question">Q. In this table, the energy per gram that is usable appears in different form. Which one is **NOT** in the form of chemical energy between atoms? 1. [Bullet](#)**Yes indeed**, the bullet has kinetic energy associated with its movement, this is not chemical energy.
 2. [TNT](#)**No**, TNT's usable energy is chemical in nature. You release it by breaking atomic bounds.
