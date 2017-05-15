@@ -31,3 +31,5 @@ All readings and assignments can be found on Canvas.
 ## News Article for week 1
 
 - [Spelling IBM Atom by Atom](http://www.nytimes.com/1990/04/05/us/2-researchers-spell-ibm-atom-by-atom.html?pagewanted=print&src=pm)
+
+~
