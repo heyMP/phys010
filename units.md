@@ -72,5 +72,5 @@ Finally, one can go in reverse. If power = energy/time, we can also write that
  
 thus instead of saying we have 1 Joule of energy, we can say we have 1 Ws (pronounced 1 Watt second).  We can use Wh (watt hour) or kWh (kiloWatt hour). 
 
-Sophie: wow thats a lot of unit
-Marie: yes and finally at the end of this page, we get to the kWh which is the unit of energy use in your bills at home by power companies. It is almost an SI units (the kW part) but not quite since hour is not a SI unit, it should be second. 
+* Sophie: wow thats a lot of units!
+* Marie: yes and finally at the end of this page, we get to the kWh which is the unit of energy uses in your bills at home by power companies. It is almost an SI unit (the kilo-Watt part) but not quite since hour is not a SI unit, it should be second. It is a unit of ** energy ** not power!
