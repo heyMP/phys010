@@ -2,7 +2,7 @@ Good work on week 1! You have now seen the first building block of nature.
 
 **All the matter around us is made of atoms that can bind together or just move around freely.**
 
-[ciscode|rev=1|tool=elmsmedia|item=426|entity_type=node|render=display_mode|display_mode=image]</div>
+[ciscode|rev=1|tool=elmsmedia|item=426|entity_type=node|render=display_mode|display_mode=image]
 
 ### Energy
 
