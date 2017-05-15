@@ -10,7 +10,7 @@ The four states are
 3. **Gas**: Atoms are completely free to move around.
 4. **Plasma**: Some electrons are freed from the atoms to move independently.
 
-The study of these various states of matter, most particularly the first one, the solid state, is the biggest area of research in physics. The long range order that one can see in solids leads to some extremely interesting phenomena. We will discuss some of these phenomena later on but this is a vast field of research and we will only scratch the surface.
+The study of these various states of matter, most particularly the first one, the solid state, is the biggest area of research in physics. Because all the atoms are bound to each other in a rigid system, there exists a long-range order that can lead to some extremely interesting phenomena like superconductivity. We will discuss some of these phenomena later on but this is a vast field of research and we will only scratch the surface.
 
 We can form atomic bonds between atoms to form a solid. There are two basic types of solids, _crystal_ (like metals and salts) which have an orderly pattern, and _amorphous_ solids (like plastic and glass) which have no such patterns.
 
@@ -21,9 +21,9 @@ We can form atomic bonds between atoms to form a solid. There are two basic type
 
 [ciscode|rev=1|tool=elmsmedia|item=432|entity_type=node|render=display_mode|display_mode=image_right] 
 
-In a solid, the atoms or molecules do not move very much but they can still vibrate and rotate. **If the atoms can move and slip past each other we then have a liquid**. In a liquid the atoms are still close to one another but they can move. They share atomic bonds with their neighbors but there is no long-range structure or order. Finally, if the atoms and molecules are not bound (chemically/electrically) at all and just move freely, we have a gas. The atoms/molecules just fly around and once in a while bounce into each other.  
+In a solid, the atoms or molecules do not move very much but they can still vibrate and rotate. **If the atoms can move and slip past each other we then have a liquid**. In a liquid, the atoms are still close to one another but they can move. They share atomic bonds with their neighbors but there is no long-range structure or order. Finally, if the atoms and molecules are not bound (chemically/electrically) at all and just move freely, we have a gas. The atoms/molecules just fly around and once in a while bounce into each other.  
   
-The final state of matter is the plasma. This is like a gas but where the atoms/molecules have been ionized and we have free electrons moving around unattached. The sun is not a big ball of gas. It is a big plasma ball. The atmosphere is not all gases, in the upper reaches, it is a plasma. Finally in your plasma TV, well you have a plasma. So this state of matter while less known is nevertheless pretty important!
+The final state of matter is the plasma. This is like a gas but where the atoms/molecules have been ionized and we have free electrons moving around unattached. The sun is not a big ball of gas. It is a big plasma ball. The atmosphere is not all gases, in the upper reaches, it is a plasma. Finally, in your plasma TV, well you have a plasma. So this state of matter while less known is nevertheless pretty important!
 
 ### Demo Molecular Balls.
 
