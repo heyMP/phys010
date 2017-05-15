@@ -2,7 +2,7 @@ Isn't it strange that chocolate chip cookies have more "usable energy" than TNT?
  
 [ciscode|rev=1|tool=elmsmedia|item=2073|entity_type=node|render=display_mode|display_mode=image]
  
- The energy per gram is written in different units. You already know the Calorie. We often use the kilowatt-hour abbreviated kWh in our meters outside of our houses. Electric companies sell us energy in kWh. One kWh is 1000 watt-hour (Wh) and we have that approximately   
+The energy per gram is written in different units. You already know the Calorie. We often use the kilowatt-hour abbreviated kWh in our meters outside of our houses. Electric companies sell us energy in kWh. One kWh is 1000 watt-hour (Wh) and we have that approximately   
   
 1 Wh = 1 Calorie. (approximately)   
   
