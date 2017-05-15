@@ -2,30 +2,30 @@
 
 [ciscode|rev=1|tool=elmsmedia|item=433|entity_type=node|render=display_mode|display_mode=image_right] 
 
-If you rub your hands together, they warm up. You turn kinetic energy (the motion of your hands) into heat. What happened in your hands? Well we know that our hands are made of atoms and by rubbing them together we are shaking the atoms around. This is just what heat is. Heat is the kinetic energy of the atoms.
+If you rub your hands together, they warm up. You turn kinetic energy (the motion of your hands) into heat. What just happened in your hands? Well we know that our hands are made of atoms and by rubbing them together we are shaking the atoms around. This is just what heat is. Heat is the kinetic energy of the atoms.
 
-When you heat up a gas, the atoms in the gas move faster. There is an enormous amount of energy in heat.
+When you heat up a gas, the atoms in the gas move faster. 
 
-Heat is disordered kinetic energy which is why it is so hard to extract. When an asteroid hits the Earth, all the atoms in the asteroid are moving together at 30 km/s in a particular direction (towards the Earth, say). When the asteroid crashes, almost all of this energy will be released as heat in the explosion, which is random motion of atoms in the air and in the ground.
+Heat is disordered kinetic energy which is why it is so hard to extract. When an asteroid hits the Earth, all the atoms in the asteroid are moving together at 30 km/s in a particular direction (towards the Earth, say). When the asteroid crashes, almost all of this energy will be released as heat in the explosion. This thermal energy is in random motion of atoms in the air and in the ground. There is an enormous amount of thermal energy on Earth but it very hard to extract it or convert it to anything else. 
 
-Temperature 
-------------
+### Temperature 
 
-<div class="clearfix"><div class="medium-6 large-4">[ciscode|rev=1|tool=elmsmedia|item=434|entity_type=node|render=display_mode|display_mode=image] </div></div>Temperature is the measure of the kinetic energy of atoms (the random kinetic energy that we can't see). Note that temperature measures energy, _not_ the speed of the atoms.   
+[ciscode|rev=1|tool=elmsmedia|item=434|entity_type=node|render=display_mode|display_mode=image]
+
+Temperature is the measure of the kinetic energy of atoms (the random kinetic energy that we can't see). Note that temperature measures energy, _not_ the speed of the atoms.   
   
 Units of temperature are degree Celsius (˚C) or degree Fahrenheit (˚F). We don't need to know the formula to go from one to the other but it is good to remember the following basic temperature in both Celsius and Fahrenheit.
 
-- freezing of water: \(T_c =0 \) ˚C and \(T_f=32 \) ˚F
-- boiling of water: \( T_c =100\) ˚C and \( T_f =212\) ˚F.
+- freezing of water: $T_c =0 $ ˚C and $T_f =32 $ ˚F
+- boiling of water: $ T_c =100$ ˚C and $ T_f =212$ ˚F.
 
-Conduction 
------------
+### Conduction 
 
-<div class="figurelabel"><div class="figurelabel__title">Fig 2 </div><div class="figurelabel__desc">Three different ways of conducting heat. </div></div><div> [ciscode|rev=1|tool=elmsmedia|item=435|entity_type=node|render=display_mode|display_mode=image] </div>   
+[ciscode|rev=1|tool=elmsmedia|item=435|entity_type=node|render=display_mode|display_mode=image]
   
-For a while, people thought that heat was a fluid. You heat one side of an iron bar and you can feel the heat traveling around the bar (through conduction). Now we know that there is no “heat fluid,” it's just the atoms on one side moving faster and, through collisions or vibrations, the atoms in the rest of the bar also start moving faster.   
+For a while, people thought that heat was a fluid. You heat one side of an iron bar and you can feel the "heat" traveling around the bar (through conduction). Now we know that there is no “heat fluid,” it's just the atoms on one side moving faster and, through collisions and vibrations, the atoms in the rest of the bar also start moving faster.   
   
-There are three different ways to transfer heat which are illustrated in the Fig 2:
+There are three different ways to transfer heat which are illustrated in the figure:
 
 1. **Conduction**
 2. **Convection**
