@@ -10,15 +10,17 @@ Units are often abbreviated. So for example a second becomes s.
 
 We can also modify the units by adding a prefix. Here is a list of common prefixes that can be added to any units to decrease or increase its value by the corresponding factor (expressed in scientific notation)
  
-| name | abbreviation | factor |
-| pico | p | $10^{-12}$ |
-| nano | n | $10^{-9}$ |
-| micro | $\mu$ | $10^{-6}$ |
-| milli | m | $10^{-3}$ | 
-| centi | c | $10^{-2}$|
-| kilo | k | $10^3$ |
-| mega | M | $10^6$ |
-| giga | G | $10^9$ |
+| name | abbreviation | factor  
+| --------------------
+| pico | p | $10^{-12}$
+| nano | n | $10^{-9}$
+| micro | $\mu$ | $10^{-6}$
+| milli | m | $10^{-3}$
+| centi | c | $10^{-2}$
+| kilo | k | $10^{3}$
+| mega | M | $10^{6}$
+| giga | G | $10^{12}$
+
 
 > Usain Bolt run the 100 m race. This is the same as the 0.1 km (0.1 kilometer) race. 
 
