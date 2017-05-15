@@ -5,12 +5,13 @@ Here are the main physics concepts we will discuss in this class. Throughout, we
 The class is divided in three units:
 
  **Unit 1: The basic building blocks of Nature:** These are 
-   1. Particles
-   2. Waves
-   3. Energy
-   4. Momentum
-   5. Space
-   6. Time
+
+1. Particles
+2. Waves
+3. Energy
+4. Momentum
+5. Space
+6. Time
 
 In one sentence:
 
@@ -30,5 +31,4 @@ Throughout, the class, we will discuss recent news event.
 
 There is a lot to say but nobody said it better than Carl Sagan in this interview.
 
-[ciscode|rev=1|tool=elmsmedia|item=353|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail]
-
+[ciscode|rev=1|tool=elmsmedia|item=2058|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail]

@@ -13,7 +13,6 @@
     * [Building Atoms in the Lab](building_atoms_in_the_lab.md)
     * [Space and graphs](space-speed-and-momentum.md)
     * [Week 1 Summary](week_1_summary.md)
-  * [End of Lessons](README.md)
   * [Week 2: Energy](week_2_energy.md)
     * [Calories and Food](calories_and_food.md)
     * [Power and Energy in your daily life](power_and_energy_in_your_daily_life.md)
@@ -26,4 +25,4 @@
     * [Momentum](momentum.md)
     * [Conservation of Momentum](conservation_of_momentum.md)
     * [Week 2 Summary](week_2_summary.md)
-
+* [End of Book](README.md)
