@@ -14,10 +14,7 @@ The study of these various states of matter, most particularly the first one, th
 
 We can form atomic bonds between atoms to form a solid. There are two basic types of solids, _crystal_ (like metals and salts) which have an orderly pattern, and _amorphous_ solids (like plastic and glass) which have no such patterns.
 
-<div class="question">Q. In the two pictures below which one do you think is a glass? (Click on the image you think is a piece of glass).
-
-1. ![disordered structure (glass)](https://online.science.psu.edu/sites/default/files/phys010/W2energy/500px-Silica.svg_.png "glass")**Correct!** In this case, the atoms are all linked together but in a disorganized way with no obvious patterns. This is typical of solid glass. If you break glass, it will break into many pieces with seemingly random shapes and random sizes. On the contrary, if you break a crystal (like diamond), you will often get a clean break with very smooth surfaces because of the order in the atomic structure.
-2. ![ordered structure](https://online.science.psu.edu/sites/default/files/phys010/W2energy/500px-SiO%C2%B2_Quartz.svg_.png)**No!** There is too much order for this to be a glass, this solid has a crystalline structure.
+<iframe src="https://h5p.org/h5p/embed/79250" width="1090" height="806" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 [ciscode|rev=1|tool=elmsmedia|item=432|entity_type=node|render=display_mode|display_mode=image_right] 
 
@@ -29,8 +26,8 @@ The final state of matter is the plasma. This is like a gas but where the atoms/
 
 In the demo below, I work with a model that illustrates the motion of atom in a gas.
 
-<iframe allowfullscreen="" frameborder="0" height="315" scrolling="no" src="https://www.youtube.com/embed/L6cX20IRXI0?rel=0" width="560"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="315" scrolling="no" src="https://youtu.be/Pyi2rimshqk" width="560"></iframe>
 
 ### Explanation/Follow-up
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/sELWKFD5Dvs?rel=0" width="560"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://youtu.be/Wvu0P5ecHMU" width="560"></iframe>
