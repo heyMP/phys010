@@ -1,9 +1,8 @@
-- M: All right, we are wrapping up our quick tour of energy.
-- S: It still feels pretty mysterious.
-- M: Hopefully, it will become less and less weird as we return frequently to the subject. You should think of energy as something that every particle has and that is associated with its movement or can induce the particle to move.
-- M: And, of course—you may have heard this already—energy is conserved.
-- S: Yes I did hear this before as some great physics principle.
-- M: Well it is. It is a law of physics that we have verified experimentally many times. It says that energy changes form but it is always conserved.
+We are wrapping up our quick tour of energy. Hopefully, the concept will become less and less weird as we return frequently to the subject. You should think of energy as something that every particle has and that is associated with its movement or can induce the particle to move.
+
+> What makes energy so important in physical system is that it is conserved. 
+
+
 
 Think for example of a skater. When she is up the ramp, she has some amount (in Joules, say) of gravitational potential energy. As she reaches the bottom of the ramp, she will convert that energy from gravitational potential to kinetic energy. This is really well illustrated in the [following simulation](https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics_en.html). Make sure to toggle the pie chart and the bar chart to see how energy is converted from kinetic to gravitational potential energy. You can download the Java file from the [Phet website](https://phet.colorado.edu/en/simulation/energy-skate-park-basics).
 
