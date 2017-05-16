@@ -39,7 +39,7 @@ Here are other well-known unit conversions between inch (in), miles (mi) and met
 
 All three units in, mi and m represents ** the same physical quantity of length**. They are just different measurement standard. 
 
-In science, we need to choose a set of units and stick to it in order to not be constantly confused.  The standard currently used is the SI units (for Systeme International). 
+In science, we need to choose a set of units and stick to it in order to not be constantly confused.  The standard currently used is the SI unit (for Systeme International). 
 
 Here are the SI units we have seen up to this point in this class. 
 
@@ -72,5 +72,4 @@ Finally, one can go in reverse. If power = energy/time, we can also write that
  
 Instead of saying we have 1 Joule of energy, we can say we have 1 Ws (pronounced 1 Watt second).  We can use Wh (watt hour) or kWh (kiloWatt hour). Because these are units of power multiplied by units of time, the result are units of energy. 
 
-* Sophie: Wow, thats a lot of units!
-* Marie: Yes and finally at the end of this page, we get to the kWh which is the unit of energy used in your bills at home by power companies. It is almost an SI unit (the kilo-Watt part) but not quite since hour is not a SI unit, it should be second. It is a unit of ** energy ** not power! This is what you buy from power from power companies, you buy energy which is a real countable physical quantity just like mass. 
+Finally at the end of this page, we get to the kWh which is the unit of energy used in your bills at home by power companies. It is almost an SI unit (the kilo-Watt part) but not quite since hour is not a SI unit, it should be second. It is a unit of ** energy ** not power! This is what you buy from power from power companies, you buy energy which is a real countable physical quantity just like mass. 
