@@ -25,6 +25,7 @@
     * [Conservation of Energy](conservation_of_energy.md)
     * [Momentum](momentum.md)
     * [Conservation of Momentum](conservation_of_momentum.md)
+    * [Recoil] (recoil.md)
     * [Week 2 Summary](week_2_summary.md)
 * [End of Book](README.md)
 
