@@ -1,4 +1,4 @@
-- M: The concept of heat or thermal energy is super important. As far as we know, energy is always conserved, and it just moves from one place to another. Some forms of energy are really useful because we can extract the energy easily. In other forms, energy can be very hard to extract and it is essentially lost. Thermal energy is the hardest form of energy to extract. If all the energy in the Universe was in the form of heat, not much could happen.
+The concept of heat or thermal energy is super important. As far as we know, energy is always conserved, and it just moves from one place to another. Some forms of energy are really useful because we can extract the energy easily. In other forms, energy can be very hard to extract and it is essentially lost. Thermal energy is the hardest form of energy to extract. If all the energy in the Universe was in the form of heat, not much could happen.
 
 [ciscode|rev=1|tool=elmsmedia|item=433|entity_type=node|render=display_mode|display_mode=image_right] 
 
@@ -14,7 +14,7 @@ Heat is disordered kinetic energy which is why it is so hard to extract. When an
 
 Temperature is the measure of the kinetic energy of atoms (the random kinetic energy that we can't see). Note that temperature measures energy, _not_ the speed of the atoms.   
   
-Units of temperature are degree Celsius (˚C) or degree Fahrenheit (˚F). We don't need to know the formula to go from one to the other but it is good to remember the following basic temperature in both Celsius and Fahrenheit.
+Units of temperature are degree Celsius (˚C) or degree Fahrenheit (˚F). We don't need to know how to go from one to the other but it is good to remember the following basic temperature in both Celsius and Fahrenheit.
 
 - freezing of water: $T_c =0 $ ˚C and $T_f =32 $ ˚F
 - boiling of water: $ T_c =100$ ˚C and $ T_f =212$ ˚F.
