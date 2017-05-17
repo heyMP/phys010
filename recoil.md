@@ -4,15 +4,21 @@ Imagine a cannon, loaded with cannon ball, at rest on the fortification. The ini
 
 Cannon + cannonball
 
-Has zero momentum. After ignition, the cannon ball shoot of mass \(m_b\) shoot with velocity \(v_b\). Since no momentum can be created or destroyed and since nobody touched the cannon to push the ball, it must be that the system cannon + cannon ball still has zero momentum. This means that the cannon must recoil with equal momentum that the ball took.
+Has zero momentum $p=mv = m\times 0 = 0$. After ignition, the cannon ball of mass $m_b$ is shot with velocity $v_b$. 
 
-![](https://online.science.psu.edu/sites/default/files/phys010/W2energy/recoil.jpg "Fig 4: The system ")
+> Subscripts are often used in physics to label the various parts of the system, here b = ball and c = cannon
+
+Since no momentum can be created or destroyed and since nobody from outside came to push the ball, it must be that the system cannon + cannon ball still has zero momentum. The total momentum is conserved and must not have changed. 
+
+This means that the cannon must recoil with equal momentum that the ball took with it
+
+[ciscode|rev=1|tool=elmsmedia|item=2079|entity_type=node|render=display_mode|display_mode=image]
 
 As you can see from the figure above. We must have that
 
-\(p_b +p_c = 0\).
+$p_b +p_c = 0$
 
-This is what recoil is.
+This is what recoil is. 
 
 Note a couple of important things
 
