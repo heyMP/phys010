@@ -20,4 +20,4 @@ This course is about reasoning about physics - what are the big ideas (there is 
 
 ### The Scientific Method
 
-[ciscode|rev=1|tool=elmsmedia|item=1050|entity_type=node|render=display_mode|display_mode=image]
+[ciscode|rev=1|tool=elmsmedia|item=1050|entity_type=node|render=display_mode|display_mode=image|field_citation=test]
