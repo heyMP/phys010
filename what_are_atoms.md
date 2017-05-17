@@ -20,7 +20,7 @@ We have already discussed how small atoms are. One atom is about 0.1 nanometer i
 
 ### Atoms are Numerous
 
-There are about 100,000,000,000,000,000,000,000 atoms in twenty grams of water (each gram is a drop of water). In scientific notation this is $10^23$ also often known as a mole. This is a huge number. A really, really huge number.
+There are about 100,000,000,000,000,000,000,000 atoms in twenty grams of water (each gram is a drop of water). In scientific notation this is $10^{23}$ also often known as a mole. This is a huge number. A really, really huge number.
 
 <iframe src="https://h5p.org/h5p/embed/75090" width="1083" height="495" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
