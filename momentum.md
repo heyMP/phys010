@@ -46,6 +46,7 @@ where the minus sign indicate that motion is to the left.
 To continue the example, let us imagine that your car has a mass of 1000 kg. Let say you are moving right at a speed of 60mph. First lets convert that number to SI units (you can google for this, there is not test/HW questions asking you to do this). You get that 60 mph is approximately 25 m/s. 
 
 So the momentum of the car if you are moving to the right is 
+
 $$p=mv= (1000\;kg) \times (25\;m/s) = 2500\;kg\;m/s$$
 
 Moving to the left it would be 
