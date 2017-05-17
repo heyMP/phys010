@@ -1,4 +1,8 @@
-Energy is not the only thing that is conserved in the world. There is another quantity that all particles have; it is called momentum. We use the letter $p$ to denote momentum. And just like energy, it is a law of physics that the **_total momentum of a system is conserved._** Before we look at that statement in more details you should first examine the picture of the swinging balls.
+Energy is not the only thing that is conserved in the world. There is another quantity that all particles have; it is called momentum.
+
+> momenta is the plural form
+ 
+We use the letter $p$ to denote momentum. And just like energy, it is a law of physics that the **_total momentum of a system is conserved._** Before we look at that statement in more details you should first examine the picture of the swinging balls.
 
 [ciscode|rev=1|tool=elmsmedia|item=2078|entity_type=node|render=display_mode|display_mode=image_gallery__basic_gallery]
 
