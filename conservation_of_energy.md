@@ -24,6 +24,6 @@ It is always possible to transfer energy or momentum in or out of the system. Th
 
 Another good analogy is money. The money in your bank account is a conserved quantity. You cannot create it or destroy it. You can change its form from checking to saving, you can transfer out by buying stuff and you can transfer in by receiving your paycheck. The amount of money in your bank account is not constant, it changes with time. 
 
-But, as far as you can tell, money is a conserved quantity. Of course, the federal government really can create money and so fundamentally this is not a conserved quantity.
+But, for most things we do, money is a conserved quantity. If you want money you have to get it from somewhere. Of course, the federal government really can create money and you really can burn cash in your fire pit. Those rare actions are why money is not a conserved quantity in a fundamental sense.
 
-The idea with energy (and momentum soon), is that there is no Universe government that can create or destroy energy, at least we have no evidence that this has ever occurred.  
+The idea with energy (and momentum soon), is that there is no Universe government that can create or destroy energy under any circumstances, at least we have no evidence that this has ever occurred.  
