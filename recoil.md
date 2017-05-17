@@ -1,4 +1,4 @@
-Recoil is a good example of momentum conservation.
+Momentum like energy is a conserved quantity and a good example is recoil.
 
 Imagine a cannon, loaded with cannon ball, at rest on the fortification. The initial speed (as seen from somebody also at rest) is zero and therefore the system
 
