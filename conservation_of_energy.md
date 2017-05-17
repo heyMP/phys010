@@ -1,42 +1,29 @@
 We are wrapping up our quick tour of energy. Hopefully, the concept will become less and less weird as we return frequently to the subject. You should think of energy as something that every particle has and that is associated with its movement or can induce the particle to move.
 
-> What makes energy so important in physical systems is that it is conserved. 
+> What makes energy so important in physical systems is that it is a conserved physical quantity. 
 
-### Conservation. 
+### The Conservation Principle
 
-To talk about conservation of a physical quantity, we need to be careful to define a _system_. This is arbitrary, you choose what the system under consideration will be.
+To talk about conservation of a physical quantity, we need to be careful to define a _system_. This is arbitrary, you always can choose what the system under consideration is. 
+
+>An example of a system could be a car (but not the road). 
 
 A quantity is conserved if it impossible to destroy or create it **from within the system**.
+
+> The car contains gasoline which is burned in the engine. The conservation principle states that the energy was there from the beginning and the burning process just transforms the energy from chemical to kinetic energy of the car. There is no energy coming out of nowhere.
 
 [ciscode|rev=1|tool=elmsmedia|item=2075|entity_type=node|render=display_mode|display_mode=image]
 
 It is always possible to transfer energy or momentum in or out of the system. This does not violate the conservation principle but if we do get transfer in or out, then the physical quantity will not be constant. By constant, we mean that the amount of that physical quantity does not change with time. If there is no transfer then the energy will be truly constant.
 
+> A car breaks on a road and suddenly stops. It lost a lot of kinetic energy that went to warming up the road (thermal energy). If the road is not part of the system under consideration, then the car transfers out energy to the road. If the system is the car-road together, then there is no transfer. The energy is constant, we just have a transformation whereas kinetic energy of car went to thermal energy of road. 
+
 [ciscode|rev=1|tool=elmsmedia|item=2076|entity_type=node|render=display_mode|display_mode=image]
 
-A good analogy is money. The money in your bank account is a conserved quantity. You cannot create it or destroy it. You can change its form from checking to saving, you can transfer out by buying stuff and you can transfer in by receiving your paycheck. The amount of money in your bank account is not constant, it changes with time but, as far as you can tell, money is a conserved quantity. Of course, the federal government really can create money and so fundamentally this is not a conserved quantity.
+### Example of an almost conserved quantity: Money
 
-Think for example of a skater. When she is up the ramp, she has some amount (in Joules, say) of gravitational potential energy. As she reaches the bottom of the ramp, she will convert that energy from gravitational potential to kinetic energy. This is really well illustrated in the [following simulation](https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics_en.html). Make sure to toggle the pie chart and the bar chart to see how energy is converted from kinetic to gravitational potential energy. You can download the Java file from the [Phet website](https://phet.colorado.edu/en/simulation/energy-skate-park-basics).
+Another good analogy is money. The money in your bank account is a conserved quantity. You cannot create it or destroy it. You can change its form from checking to saving, you can transfer out by buying stuff and you can transfer in by receiving your paycheck. The amount of money in your bank account is not constant, it changes with time. 
 
-[ciscode|rev=1|tool=elmsmedia|item=437|entity_type=node|render=link|field=field_image|text=Skater game|delta=0|item_type=image|alt=Image of the skater video game.|width=1045|height=578]
+But, as far as you can tell, money is a conserved quantity. Of course, the federal government really can create money and so fundamentally this is not a conserved quantity.
 
-Conservation of energy is the statement that the total energy (gold bar) of the whole system remains constant in a closed system. The total energy remains the same but note how the energy change form between kinetic and potential.
-
-You can also include friction - click on the friction button at the bottom. In this case, the skater eventually stops after all the kinetic and gravitational potential energy has been converted to thermal energy. (The contact between the wheels and the ramp causes heat and dissipates the energy in the system.)
-
-[ciscode|rev=1|tool=elmsmedia|item=438|entity_type=node|render=link|field=field_image|text=Skater friction|delta=0|item_type=image|alt=Still from the skater game.|width=1041|height=508]
-
-Energy of the whole system is still conserved, though, even with friction; it us just that now it is in the form of thermal energy (and therefore completely useless—and unusable—to the skater).
-
-\*\*Make sure to play with the simulations; we will come back to this. Test your understanding with the following question:
-
-<div class="question">Q. A skateboarder skates along a ramp shaped like a “W” starting at point A, as shown below. **Which of the following energy diagrams correctly describes his energy at point C?** Note that \(U_g\) refers to gravitational potential energy while K is kinetic energy. You should assume/define that at point B all energy is kinetic (no gravitational energy there). Click on the image that you believe is the right answer.
-
-[ciscode|rev=1|tool=elmsmedia|item=439|entity_type=node|render=link|field=field_image|text=Skater Question|delta=0|item_type=image|alt=Skater image from the phet simulation|width=539|height=331]
-
-1. [ciscode|rev=1|tool=elmsmedia|item=440|entity_type=node|render=link|field=field_image|text=Skateboarder Answer 1|delta=0|item_type=image|alt=Skateboarder Answer 1|width=105|height=70]**Correct!.** Point C is below midpoint. We are assuming (or defining) that at the bottom all energy is kinetic (point B) while at the top we started at rest (so point A, energy is all gravitational \(U_g\)). Point C is below the midpoint so most of the potential energy \(U_g\) was transferred to Kinetic K but not all.
-2. [ciscode|rev=1|tool=elmsmedia|item=441|entity_type=node|render=link|field=field_image|text=Skateboarder Answer 2|delta=0|item_type=image|alt=Skateboarder Answer 2|width=100|height=57]**No!** Point C is below the midpoint. It should have less gravitational potential energy than kinetic energy.
-3. [ciscode|rev=1|tool=elmsmedia|item=442|entity_type=node|render=link|field=field_image|text=Skateboarder Answer 3|delta=0|item_type=image|alt=Skateboarder Answer 3|width=68|height=57]**No**, the skater is moving at point C and must have some kinetic energy.
-4. [ciscode|rev=1|tool=elmsmedia|item=443|entity_type=node|render=link|field=field_image|text=Skateboarder Answer 4|delta=0|item_type=image|alt=Skateboarder Answer 4|width=75|height=63]**No** As we said in the description of the problem. All energy is kinetic at point B, not point C.
-
-</div>
+The idea with energy (and momentum soon), is that there is no Universe government that can create or destroy energy, at least we have no evidence that this has ever or will ever occur.  
