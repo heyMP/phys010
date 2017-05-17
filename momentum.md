@@ -11,3 +11,7 @@ There is simple formula for momentum. It is just
 $p = mv$
 
 just mass times velocity.
+
+### Velocity
+
+Great but what is velocity exactly. Velocity tells
