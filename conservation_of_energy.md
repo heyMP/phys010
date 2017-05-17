@@ -1,6 +1,6 @@
 We are wrapping up our quick tour of energy. Hopefully, the concept will become less and less weird as we return frequently to the subject. You should think of energy as something that every particle has and that is associated with its movement or can induce the particle to move.
 
-> What makes energy so important in physical system is that it is conserved. 
+> What makes energy so important in physical systems is that it is conserved. 
 
 ### Conservation. 
 
@@ -10,14 +10,11 @@ A quantity is conserved if it impossible to destroy or create it **from within t
 
 [ciscode|rev=1|tool=elmsmedia|item=2075|entity_type=node|render=display_mode|display_mode=image]
 
-It is always possible to transfer energy or momentum in or out of the system. This does not violate the conservation principle but if we do get transfer in or out, then the physical quantity will not be constant. If there is no transfer then the energy/momentum will be truly constant.
+It is always possible to transfer energy or momentum in or out of the system. This does not violate the conservation principle but if we do get transfer in or out, then the physical quantity will not be constant. By constant, we mean that the amount of that physical quantity does not change with time. If there is no transfer then the energy will be truly constant.
 
 [ciscode|rev=1|tool=elmsmedia|item=2076|entity_type=node|render=display_mode|display_mode=image]
 
-A good analogy is money. The money in your bank account is a conserved quantity. You cannot create it or destroy it. You can change its form from checking to saving, you can transfer out by buying stuff and you can transfer in by receiving your paycheck. The amount of money is not constant but, as far as you can tell, money is a conserved quantity. Of course, the federal government really can create money and so fundamentally this is not a conserved quantity.
-
-
-
+A good analogy is money. The money in your bank account is a conserved quantity. You cannot create it or destroy it. You can change its form from checking to saving, you can transfer out by buying stuff and you can transfer in by receiving your paycheck. The amount of money in your bank account is not constant, it changes with time but, as far as you can tell, money is a conserved quantity. Of course, the federal government really can create money and so fundamentally this is not a conserved quantity.
 
 Think for example of a skater. When she is up the ramp, she has some amount (in Joules, say) of gravitational potential energy. As she reaches the bottom of the ramp, she will convert that energy from gravitational potential to kinetic energy. This is really well illustrated in the [following simulation](https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics_en.html). Make sure to toggle the pie chart and the bar chart to see how energy is converted from kinetic to gravitational potential energy. You can download the Java file from the [Phet website](https://phet.colorado.edu/en/simulation/energy-skate-park-basics).
 
