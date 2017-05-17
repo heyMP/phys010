@@ -18,21 +18,10 @@ Energy of the whole system is still conserved, though, even with friction; it us
 
 ### Energy Bar Diagram. 
 
-
-
 Energy is conserved but it can change its form. To understand the dynamic of a system, it is useful to make a list of the various form of energy and to represent the amount of energy in each category by a bar. As the system evolve in time, the energy goes from one form to another but the total should always be the same (assuming no transfer in or out of the system). 
 
 [ciscode|rev=1|tool=elmsmedia|item=2077|entity_type=node|render=display_mode|display_mode=image]
 
 Test your understanding with the following question:
 
-<div class="question">Q. A skateboarder skates along a ramp shaped like a “W” starting at point A, as shown below. **Which of the following energy diagrams correctly describes his energy at point C?** Note that \(U_g\) refers to gravitational potential energy while K is kinetic energy. You should assume/define that at point B all energy is kinetic (no gravitational energy there). Click on the image that you believe is the right answer.
-
-[ciscode|rev=1|tool=elmsmedia|item=439|entity_type=node|render=link|field=field_image|text=Skater Question|delta=0|item_type=image|alt=Skater image from the phet simulation|width=539|height=331]
-
-1. [ciscode|rev=1|tool=elmsmedia|item=440|entity_type=node|render=link|field=field_image|text=Skateboarder Answer 1|delta=0|item_type=image|alt=Skateboarder Answer 1|width=105|height=70]**Correct!.** Point C is below midpoint. We are assuming (or defining) that at the bottom all energy is kinetic (point B) while at the top we started at rest (so point A, energy is all gravitational \(U_g\)). Point C is below the midpoint so most of the potential energy \(U_g\) was transferred to Kinetic K but not all.
-2. [ciscode|rev=1|tool=elmsmedia|item=441|entity_type=node|render=link|field=field_image|text=Skateboarder Answer 2|delta=0|item_type=image|alt=Skateboarder Answer 2|width=100|height=57]**No!** Point C is below the midpoint. It should have less gravitational potential energy than kinetic energy.
-3. [ciscode|rev=1|tool=elmsmedia|item=442|entity_type=node|render=link|field=field_image|text=Skateboarder Answer 3|delta=0|item_type=image|alt=Skateboarder Answer 3|width=68|height=57]**No**, the skater is moving at point C and must have some kinetic energy.
-4. [ciscode|rev=1|tool=elmsmedia|item=443|entity_type=node|render=link|field=field_image|text=Skateboarder Answer 4|delta=0|item_type=image|alt=Skateboarder Answer 4|width=75|height=63]**No** As we said in the description of the problem. All energy is kinetic at point B, not point C.
-
-</div>
+<iframe src="https://h5p.org/h5p/embed/79458" width="1090" height="694" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
