@@ -41,7 +41,7 @@ where the minus sign indicate that motion is to the left.
 
 ### Momentum
 
-To continue the car example, let us imagine that your car has a mass of 1000 kg. Let us say you are moving right at a speed of 60 mph. First we should convert that number to SI units (you can google for this, there is not test/HW questions asking you to do this). You get that 60 mph is approximately 25 m/s. 
+To continue the car example, let us imagine that your car has a mass of 1000 kg. Let us say you are moving right at a speed of 60 mph. First, we should convert that number to SI units (you can google for this, there is not test/HW questions asking you to do this). After looking it up, you find that 60 mph is approximately 25 m/s. 
 
 So the momentum of the car if you are moving to the right is 
 
