@@ -18,9 +18,9 @@ As you can see from the figure above. We must have that
 
 $p_b +p_c = 0$
 
-This is what recoil is. 
+This is what recoil is. We started with zero momentum, we split the system int two parts and one move left (say), the other must move right with a momentum equal in magnitude (but opposite in direction). 
 
-Note a couple of important things
+** Note a couple of important things** 
 
 1. for the two momenta to add to zero, one of them must be negative of the other. They must be in opposite direction
-2. While the cannon and the cannon ball must equal magnitude of momenta (same number but different signs), they do not have the same speed! Momenta is mass times speed and because the cannon as a much bigger mass it will have a much lower speed.
+2. While the cannon and the cannon ball must have equal magnitude of momenta (same number but different signs), they do not have the same speed! Momenta is mass times speed and because the cannon has a much bigger mass it will have a much lower speed.
