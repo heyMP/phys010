@@ -1,10 +1,10 @@
-Momentum like energy is a conserved quantity and a good example is recoil.
+Momentum like energy is a conserved quantity.
 
-Imagine a cannon, loaded with cannon ball, at rest on the fortification. The initial speed (as seen from somebody also at rest) is zero and therefore the system
+Conservation of momentum is the cause for recoil and it is what allows rockets to move.
 
-Cannon + cannonball
+Imagine a cannon, loaded with a cannon ball, at rest on the fortification. The initial speed (as seen from somebody also at rest) is zero and therefore the system (cannon + cannonball) has zero momentum $$p=mv = m\times 0 = 0$$. 
 
-Has zero momentum $p=mv = m\times 0 = 0$. After ignition, the cannon ball of mass $m_b$ is shot with velocity $v_b$. 
+After ignition, the cannon ball of mass $m_b$ is shot with velocity $v_b$. 
 
 > Subscripts are often used in physics to label the various parts of the system, here b = ball and c = cannon
 
@@ -18,7 +18,7 @@ As you can see from the figure above. We must have that
 
 $p_b +p_c = 0$
 
-This is what recoil is. We started with zero momentum, we split the system int two parts and one move left (say), the other must move right with a momentum equal in magnitude (but opposite in direction). 
+This is what recoil is. We started with zero momentum, we split the system in two parts and one moves left (say), the other must move right with a momentum equal in magnitude (but opposite in direction). 
 
 ** Note a couple of important things** 
 
