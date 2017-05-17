@@ -16,7 +16,7 @@ A quantity is conserved if it impossible to destroy or create it **from within t
 
 It is always possible to transfer energy or momentum in or out of the system. This does not violate the conservation principle but if we do get transfer in or out, then the physical quantity will not be constant; it will change in time. If there is no transfer of energy in or out, then the energy within the system will not only be conserved but truly constant.
 
-> A car breaks on a road and suddenly stops. While breaking it lost a lot of kinetic energy that went to warming up the road (thermal energy). If the road is not part of the system under consideration, then the car transfers out energy to the road. If the system under consideration is the car-road together, then there is no transfer out of system. The energy is constant.  We just have a transformation of energy into different forms. Kinetic energy of car went to thermal energy of road. 
+> A car breaks on a road and suddenly stops. While breaking it lost a lot of kinetic energy that went to warming up the road (thermal energy). If the road is not part of the system under consideration, then the car transfers energy out to the road. If the system under consideration is the car and road together, then there is no transfer out of system. The energy is constant.  We just have a transformation of energy into different forms. Kinetic energy of car went to thermal energy of road. These are two different ways of viewing the same process. 
 
 [ciscode|rev=1|tool=elmsmedia|item=2076|entity_type=node|render=display_mode|display_mode=image]
 
