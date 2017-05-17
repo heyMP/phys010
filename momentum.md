@@ -14,8 +14,11 @@ just mass times velocity.
 
 ### Speed and Velocity
 
-Great but what is velocity and speed exactly? Area there any differences? Velocity tells you the rate of change of your position as a function of time. 
+Great but what is velocity and speed exactly? Are there any differences? 
+Yes there is. 
 
-Velocity is simply the distance travelled divided by the time it takes you to get there. 
+Speed tells you the rate of change of your position as a function of time. When you go at 60 mph on the highway, it means that you would travel a distance of 60 miles within 1 hour. Or 120 miles if you traveled for two hours at that speed. 
 
-Velocity has one more piece of information
+Velocity has one more piece of information, we also indicate the direction in which you travel. 
+
+So for us in this class, we only move in one dimension with the x axis. 
