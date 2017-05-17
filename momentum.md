@@ -21,15 +21,13 @@ just mass times velocity.
 Great but what is velocity and speed exactly? Are there any differences? 
 Yes there is. 
 
-Speed tells you the rate of change of your position as a function of time. When you go at 60 mph on the highway, it means that you would travel a distance of 60 miles within 1 hour. Or 120 miles if you travel for two hours at that speed. 
+Speed tells you the rate of change of your position as a function of time. When you go at 60 mph on the highway, it means that you travel a distance of 60 miles within 1 hour. Or 120 miles if you travel for two hours at that speed. 
 
-Velocity has one more piece of information, we also indicate the direction in which you travel. 
-
-So for us in this class, we only move in one dimension with the x axis. 
+With velocity, we indicate both the speed and the direction of travel. For us in this class, we only move in one dimension with the x axis pointing right (see back to week 1). 
 
 [ciscode|rev=1|tool=elmsmedia|item=2054|entity_type=node|render=display_mode|display_mode=image]
 
-So if I car has a speed of 60 mph moving right we will say that it has a velocity of 
+If a car has a speed of 60 mph moving right we will say that it has a velocity of 
 
 $v = + 60 \rm{mph}$
 
@@ -39,11 +37,11 @@ $v = -60 \rm{mph}$
 
 where the minus sign indicate that motion is to the left. 
 
-> Velocity is the same number as the speed but with a sign in front to indicate direction. Very often, if the sign is positive, it is omitted. The convention if that if there is no sign, the quantity is positive.
+> Velocity is the same number as the speed but with a sign in front to indicate direction. Positive is motion to the right and negative to the left (this is a convention). If the sign is positive, it is very often omitted. It is usually understood that if the quantity has no sign in front, the quantity is positive.
 
 ### Momentum
 
-To continue the example, let us imagine that your car has a mass of 1000 kg. Let say you are moving right at a speed of 60mph. First lets convert that number to SI units (you can google for this, there is not test/HW questions asking you to do this). You get that 60 mph is approximately 25 m/s. 
+To continue the car example, let us imagine that your car has a mass of 1000 kg. Let us say you are moving right at a speed of 60 mph. First we should convert that number to SI units (you can google for this, there is not test/HW questions asking you to do this). You get that 60 mph is approximately 25 m/s. 
 
 So the momentum of the car if you are moving to the right is 
 
@@ -53,4 +51,4 @@ Moving to the left it would be
 
 $$p=mv= (1000\;kg) \times (-25\;m/s) = -2500\;kg\;m/s$$
 
-> There is no special name for the unit of momentum. We just carry the whole kilogram times meters per second (kg m/s) around. 
+> There is no special name for the unit of momentum. We just carry the whole kilogram times meters per second (kg m/s) around and yes this is a mouthful. 
