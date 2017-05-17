@@ -23,7 +23,7 @@ Yes there is.
 
 Speed tells you the rate of change of your position as a function of time. When you go at 60 mph on the highway, it means that you travel a distance of 60 miles within 1 hour. Or 120 miles if you travel for two hours at that speed. 
 
-With velocity, we indicate both the speed and the direction of travel. For us in this class, we only move in one dimension with the x axis pointing right (see back to week 1). 
+With velocity, we indicate both the speed and the direction of travel. For us in this class, we only move in one dimension with the x-axis pointing right (see back to week 1). 
 
 [ciscode|rev=1|tool=elmsmedia|item=2054|entity_type=node|render=display_mode|display_mode=image]
 
