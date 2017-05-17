@@ -1,6 +1,17 @@
 Isn't it strange that chocolate chip cookies have more "usable energy" than TNT? Why is dynamite so much more dangerous than cookies? The key difference is how fast the energy is released, and this has to do with power. Look at the table below. It has some very interesting numbers.
- 
-[ciscode|rev=1|tool=elmsmedia|item=2073|entity_type=node|render=display_mode|display_mode=image]
+
+|Object | Calories | Joules | Compared to TNT | Type of Energy
+|--------
+|Moving Bullet| 0.01|40 J|0.015|Kinetic
+|Computer Battery| 0.1| 400 J|0.15|Electric
+|TNT|0.651|2723 J |1| Chemical
+|Chocolate Chip Cookies|5|21 kJ| 8| Chemical
+|Butter|7|29 kJ|11|Chemical
+|Anthracite Coal| 7.2|30 kJ|11|Chemical
+|Gasoline|10|42 kJ|15|Chemical
+|Asteroid or Meteor (30km/s)|107|450 kJ|165| Kinetic
+|Uranium|20 million|84 billion J|30 million|Nuclear
+
  
 The energy per gram is written in different units. You already know the Calorie. We often use the kilowatt-hour abbreviated kWh in our meters outside of our houses. Electric companies sell us energy in kWh. One kWh is 1000 watt-hour (Wh) and we have that approximately   
   
@@ -34,4 +45,12 @@ TNT has less energy per gram than cookies but it has a high power. TNT is made t
 
 Let us see if you can estimate roughly how much energy and power are in this various circumstances.
 
-[ciscode|rev=1|tool=elmsmedia|item=2074|entity_type=node|render=display_mode|display_mode=image]
+|Value|Equivalent|Example
+|------
+|1 watt (W)|1 joule per second|flashlight
+|100 watts|100 joules per second|Bright light bulb
+|1 horsepower (hp)|1 kilowatt|Typical horse
+|20 hp|20 kilowatt|Small automobile
+|1 megawatt (1MW)|1 million watts|Electric power for a small town
+|1 gigawatt (1 GW)|1 billion watt|Large coal, gas or nuclear power plant.
+
