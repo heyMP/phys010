@@ -2,17 +2,17 @@
 
  <iframe src="https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics_en.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
  
-When she is up the ramp, she has some amount (in Joules, say) of gravitational potential energy. This is energy that can potentially be released into kinetic energy via the action of gravity (the skater wants to go down). As she reaches the bottom of the ramp, she will convert that energy from gravitational potential to kinetic energy. 
+When she is up the ramp, she has some amount of gravitational potential energy. This is energy that can potentially be released into kinetic energy via the action of gravity (the skater is attracted downward). As she reaches the bottom of the ramp, she will convert that energy from gravitational potential to kinetic energy. 
  
 As you play with the simulation, make sure to toggle the pie chart and the bar chart to see how energy is converted from kinetic to gravitational potential energy.
 
-Conservation of energy is the statement that the total energy (gold bar) of the whole system remains constant in a closed system. The total energy remains the same but note how the energy change form between kinetic and potential.
+Conservation of energy is the statement that the total energy (gold bar in the sim) of the whole system remains constant in a closed system. The total energy remains the same but note how the energy change form between kinetic and potential.
 
 You can also include friction - click on the friction button at the bottom. In this case, the skater eventually stops after all the kinetic and gravitational potential energy has been converted to thermal energy. (The contact between the wheels and the ramp causes heat and dissipates the energy in the system.)
 
 [ciscode|rev=1|tool=elmsmedia|item=438|entity_type=node|render=link|field=field_image|text=Skater friction|delta=0|item_type=image|alt=Still from the skater game.|width=1041|height=508]
 
-Energy of the whole system is still conserved, though, even with friction; it us just that now it is in the form of thermal energy (and therefore completely useless—and unusable—to the skater).
+Energy of the whole system is still conserved, though, even with friction. The energy is transferred to thermal energy. It is then completely useless—and unusable—to the skater and motion stops.
 
 ** Make sure to play with the simulations; we will come back to this** 
 
