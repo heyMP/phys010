@@ -2,7 +2,7 @@ Energy is not the only thing that is conserved in the world. There is another qu
 
 > momenta is the plural form
  
-We use the letter $p$ to denote momentum. And just like energy, it is a law of physics that the **_total momentum of a system is conserved._** Before we look at that statement in more details you should first examine the picture of the swinging balls.
+We use the letter $p$ to denote momentum. And just like energy, it is a law of physics that the **_total momentum of a system is conserved._** Before we look at that statement in more details you should first examine the following picture of swinging balls.
 
 [ciscode|rev=1|tool=elmsmedia|item=2078|entity_type=node|render=display_mode|display_mode=image_gallery__basic_gallery]
 
@@ -21,7 +21,7 @@ just mass times velocity.
 Great but what is velocity and speed exactly? Are there any differences? 
 Yes there is. 
 
-Speed tells you the rate of change of your position as a function of time. When you go at 60 mph on the highway, it means that you would travel a distance of 60 miles within 1 hour. Or 120 miles if you traveled for two hours at that speed. 
+Speed tells you the rate of change of your position as a function of time. When you go at 60 mph on the highway, it means that you would travel a distance of 60 miles within 1 hour. Or 120 miles if you travel for two hours at that speed. 
 
 Velocity has one more piece of information, we also indicate the direction in which you travel. 
 
