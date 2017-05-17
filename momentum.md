@@ -12,6 +12,10 @@ $p = mv$
 
 just mass times velocity.
 
-### Velocity
+### Speed and Velocity
 
-Great but what is velocity exactly. Velocity tells
+Great but what is velocity and speed exactly? Area there any differences? Velocity tells you the rate of change of your position as a function of time. 
+
+Velocity is simply the distance travelled divided by the time it takes you to get there. 
+
+Velocity has one more piece of information
