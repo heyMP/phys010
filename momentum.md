@@ -39,4 +39,13 @@ where the minus sign indicate that motion is to the left.
 
 ### Momentum
 
-To continue the example, let us imagine that your car has a mass of 1000 kg. If you are moving right at speed of 60mph
+To continue the example, let us imagine that your car has a mass of 1000 kg. Let say you are moving right at a speed of 60mph. First lets convert that number to SI units (you can google, there is not test/HW questions asking you to this). You get that 60 mph is approximately 25 m/s. 
+
+So the momentum of the car if you are moving to the right is 
+$$p=mv= (1000\;kg) \times (25\;m/s) = 2500\;kg\;m/s$$
+
+Moving to the left it would be 
+
+$$p=mv= (1000\;kg) \times (-25\;m/s) = -2500\;kg\;m/s$$
+
+> There is no special name for the unit of momentum. We just carry the whole kilogram times meters per second (kg m/s) around. 
