@@ -22,3 +22,21 @@ Speed tells you the rate of change of your position as a function of time. When 
 Velocity has one more piece of information, we also indicate the direction in which you travel. 
 
 So for us in this class, we only move in one dimension with the x axis. 
+
+[ciscode|rev=1|tool=elmsmedia|item=2054|entity_type=node|render=display_mode|display_mode=image]
+
+So if I car has a speed of 60 mph moving right we will say that it has a velocity of 
+
+$v = + 60 \rm{mph}$
+
+where the + (positive) sign indicate that the car is moving right. If it moves left, we say that it has a velocity of 
+
+$v = -60 \rm{mph}$
+
+where the minus sign indicate that motion is to the left. 
+
+> Velocity is the same number as the speed but with a sign in front to indicate direction. Very often, if the sign is positive, it is omitted. The convention if that if there is no sign, the quantity is positive.
+
+### Momentum
+
+To continue the example, let us imagine that your car has a mass of 1000 kg. If you are moving right at speed of 60mph
