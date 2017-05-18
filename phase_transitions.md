@@ -14,8 +14,8 @@ The change in volume caused by changing temperature is easy to understand: if th
 
 In the demo below, I illustrate the change in volume that occurs when a metal ball is heated.
 
-[ciscode|rev=1|tool=elmsmedia|item=2083|entity_type=node]
+[ciscode|rev=1|tool=elmsmedia|item=2083|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 ### Will it go in?
 
-[ciscode|rev=1|tool=elmsmedia|item=2084|entity_type=node]
+[ciscode|rev=1|tool=elmsmedia|item=2084|entity_type=node|render=display_mode|display_mode=mediavideo]
