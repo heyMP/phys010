@@ -27,7 +27,7 @@ The final state of matter is the plasma. This is like a gas but where the atoms/
 
 In the demo below, I work with a model that illustrates the motion of atom in a gas.
 
-<iframe allowfullscreen="" frameborder="0" height="315" scrolling="no" src="https://youtu.be/Pyi2rimshqk" width="560"></iframe>
+[ciscode|rev=1|tool=elmsmedia|item=2080|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 ### Explanation/Follow-up
 
