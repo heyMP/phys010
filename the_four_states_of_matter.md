@@ -31,4 +31,4 @@ In the demo below, I work with a model that illustrates the motion of atom in a 
 
 ### Explanation/Follow-up
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://youtu.be/Wvu0P5ecHMU" width="560"></iframe>
+[ciscode|rev=1|tool=elmsmedia|item=2081|entity_type=node|render=display_mode|display_mode=mediavideo]
