@@ -18,4 +18,4 @@ In the demo below, I illustrate the change in volume that occurs when a metal ba
 
 ### Will it go in?
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://youtu.be/7hql0xoyzkQ" width="560"></iframe>
+[ciscode|rev=1|tool=elmsmedia|item=2084|entity_type=node]
