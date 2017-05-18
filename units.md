@@ -37,7 +37,7 @@ Here are other well-known unit conversions between inch (in), miles (mi) and met
 * 1 in = 2.54 cm
 * 1 mi = 1609 km
 
-All three units in, mi and m represents ** the same physical quantity of length **. They are just different measurement standard. 
+All three units in, mi and m represents **the same physical quantity of length**. They are just different measurement standard. 
 
 In science, we need to choose a set of units and stick to it in order to not be constantly confused.  The standard currently used is the SI unit (for Systeme International). 
 
