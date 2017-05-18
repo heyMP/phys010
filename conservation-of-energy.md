@@ -14,7 +14,7 @@ You can also include friction - click on the friction button at the bottom. In t
 
 Energy of the whole system is still conserved, though, even with friction. The energy is transferred to thermal energy. It is then completely useless—and unusable—to the skater and motion stops.
 
-** Make sure to play with the simulations; we will come back to this** 
+**Make sure to play with the simulations; we will come back to this** 
 
 ### Energy Bar Diagram. 
 
