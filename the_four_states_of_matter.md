@@ -12,7 +12,7 @@ The four states are
 
 The study of these various states of matter, most particularly the first one, the solid state, is the biggest area of research in physics. Because all the atoms are bound to each other in a rigid system, there exists a long-range order that can lead to some extremely interesting phenomena like superconductivity. We will discuss some of these phenomena later on but this is a vast field of research and we will only scratch the surface.
 
-[ciscode|rev=1|tool=elmsmedia|item=432|entity_type=node|render=display_mode|display_mode=image_right] 
+[ciscode|rev=1|tool=elmsmedia|item=432|entity_type=node|render=display_mode|display_mode=image__right] 
 
 We can form atomic bonds between atoms to form a solid. There are two basic types of solids, _crystal_ (like metals and salts) which have an orderly pattern, and _amorphous_ solids (like plastic and glass) which have no such patterns.
 
