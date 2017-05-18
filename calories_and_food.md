@@ -2,7 +2,7 @@ Good work on week 1! You have now seen the first building block of nature.
 
 **All the matter around us is made of atoms that can bind together or just move around freely.**
 
-[ciscode|rev=1|tool=elmsmedia|item=426|entity_type=node|render=display_mode|display_mode=image]
+
 
 ### Energy
 
@@ -17,6 +17,8 @@ The world is made of atoms but very often these atoms are actually stuck togethe
 Atoms like to bind together for energetic reasons. They like to exchange their electrons. An important famous molecule is water which is made of two hydrogen atoms and one oxygen atom. Carbon-dioxide is made of one carbon atom and two oxygen atoms.
 
 Look at the label (Fig 1) of a soda can. This soda contains a huge amount of atoms in the form mostly of water, sugar, and sodium. But it also contains 240 Calories. This is energy.
+
+[ciscode|rev=1|tool=elmsmedia|item=426|entity_type=node|render=display_mode|display_mode=image_right]
 
 When you drink this soda, you will be able to get 240 Calories of energy by breaking the molecular bonds in the sugar that your body uses as a fuel.
 
