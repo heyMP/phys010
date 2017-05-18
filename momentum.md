@@ -1,14 +1,12 @@
-Energy is not the only thing that is conserved in the world. There is another quantity that all particles have; it is called momentum.
-
-> momenta is the plural form
+Energy is not the only thing that is conserved in the world. There is another quantity that all particles have; it is called momentum (momenta is the plural form).
  
-We use the letter $p$ to denote momentum. And just like energy, it is a law of physics that the **_total momentum of a system is conserved._** Before we look at that statement in more details you should first examine the following picture of swinging balls.
+We use the letter $p$ to denote momentum. And just like energy, it is a law of physics that the **total momentum of a system is conserved.** Before we look at that statement in more details you should first examine the following picture of swinging balls.
 
 [ciscode|rev=1|tool=elmsmedia|item=2078|entity_type=node|render=display_mode|display_mode=image_gallery__basic_gallery]
 
-This is called "Newton's craddle." (And the reason why science teachers should never be put on playground duty...) Look closely at the collision. When a ball hits the stack, the ball at the other end picks up and continues the movement. It looks like something is transmitted. Well, there is something "transmitted" and it is not just energy. In this kind of collision, momentum is conserved and the ball at the other end has the same momentum as the ball that just hit had.
+This is called "Newton's cradle." (And the reason why science teachers should never be put on playground duty...) Look closely at the collision. When a ball hits the stack, the ball at the other end picks up and continues the movement. It looks like something is transmitted. Well, there is something "transmitted" and it is not just energy. In this kind of collision, momentum is conserved and the ball at the other end has the same momentum as the ball that just hit had.
 
-So what is momentum? Fundamentally, momentum and energy are very related. We talked previously about how energy is the ability to make things move. Well, momentum is the ability to change the movement, the ability to provide an impulse to other objects. The more momentum, the bigger the impulse you can provide. What is happening in Newton's craddle is that each time there is a collision, an impulse is given to the other balls.
+So what is momentum? Fundamentally, momentum and energy are very related. We talked previously about how energy is the ability to make things move. Well, momentum is the ability to change the movement, the ability to provide an impulse to other objects. The more momentum, the bigger the impulse you can provide. What is happening in Newton's cradle is that each time there is a collision, an impulse is given to the other balls.
 
 There is simple formula for momentum. It is just
 
@@ -16,7 +14,7 @@ $p = mv$
 
 just mass times velocity.
 
-### Speed and Velocity
+## Speed and Velocity
 
 Great but what is velocity and speed exactly? Are there any differences? 
 Yes there is. 
@@ -39,7 +37,7 @@ where the minus sign indicate that motion is to the left.
 
 > Velocity is the same number as the speed but with a sign in front to indicate direction. Positive is motion to the right and negative to the left (this is a convention). If the sign is positive, it is very often omitted. It is usually understood that if the quantity has no sign in front, the quantity is positive.
 
-### Momentum
+## Momentum
 
 To continue the car example, let us imagine that your car has a mass of 1000 kg. Let us say you are moving right at a speed of 60 mph. First, we should convert that number to SI units (you can google for this, there is not test/HW questions asking you to do this). After looking it up, you find that 60 mph is approximately 25 m/s. 
 
@@ -51,4 +49,4 @@ Moving to the left it would be
 
 $$p=mv= (1000\;kg) \times (-25\;m/s) = -2500\;kg\;m/s$$
 
-> There is no special name for the unit of momentum. We just carry the whole kilogram times meters per second (kg m/s) around and yes this is a mouthful. 
+There is no special name for the unit of momentum. We just carry the whole kilogram times meters per second (kg m/s) around and yes this is a mouthful.
