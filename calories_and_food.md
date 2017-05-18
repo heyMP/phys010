@@ -18,7 +18,7 @@ Atoms like to bind together for energetic reasons. They like to exchange their e
 
 Look at the label (Fig 1) of a soda can. This soda contains a huge amount of atoms in the form mostly of water, sugar, and sodium. But it also contains 240 Calories. This is energy.
 
-[ciscode|rev=1|tool=elmsmedia|item=426|entity_type=node|render=display_mode|display_mode=image_right]
+[ciscode|rev=1|tool=elmsmedia|item=426|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
 
 When you drink this soda, you will be able to get 240 Calories of energy by breaking the molecular bonds in the sugar that your body uses as a fuel.
 
