@@ -16,7 +16,7 @@ Energy of the whole system is still conserved, though, even with friction. The e
 
 **Make sure to play with the simulations; we will come back to this** 
 
-### Energy Bar Diagram. 
+## Energy Bar Diagram. 
 
 Energy is conserved but it can change its form. To understand the dynamic of a system, it is useful to make a list of the various form of energies and to represent the amount of energy in each category by a bar in bar chart. As the system evolves in time, the energy goes from one form to another but the total should always be the same (assuming no transfer in or out of the system). 
 
