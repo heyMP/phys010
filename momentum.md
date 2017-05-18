@@ -4,6 +4,7 @@ We use the letter $p$ to denote momentum. And just like energy, it is a law of p
 
 [ciscode|rev=1|tool=elmsmedia|item=2078|entity_type=node|render=display_mode|display_mode=image_gallery__basic_gallery]
 
+
 This is called "Newton's cradle." (And the reason why science teachers should never be put on playground duty...) Look closely at the collision. When a ball hits the stack, the ball at the other end picks up and continues the movement. It looks like something is transmitted. Well, there is something "transmitted" and it is not just energy. In this kind of collision, momentum is conserved and the ball at the other end has the same momentum as the ball that just hit had.
 
 So what is momentum? Fundamentally, momentum and energy are very related. We talked previously about how energy is the ability to make things move. Well, momentum is the ability to change the movement, the ability to provide an impulse to other objects. The more momentum, the bigger the impulse you can provide. What is happening in Newton's cradle is that each time there is a collision, an impulse is given to the other balls.
