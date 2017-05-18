@@ -31,7 +31,7 @@ As you can see from the table, for the same mass of fuel, uranium is the big win
 * M: Ah, great example. This is a sport that has more to do with power than energy.
 * M: Some sports require a lot of energy constantly, say like running. These are sports of endurance. But volleyball, or say football, often requires very quick bursts of energy release. These sports are not so much about energy, they require high power.
 
-### Power 
+## Power 
 
 Power is the rate of energy release. It is just the amount of energy that you can release over the time it takes to release it.   
   
@@ -41,7 +41,7 @@ Usain Bolt has a high power when he sprints the 100 meters in less than 10 secon
   
 TNT has less energy per gram than cookies but it has a high power. TNT is made to release its energy very quickly. TNT explodes while chocolate chip cookies require more time to release all their energy.
 
-#### How Much Energy and Power? 
+## How Much Energy and Power? 
 
 Let us see if you can estimate roughly how much energy and power are in this various circumstances.
 
