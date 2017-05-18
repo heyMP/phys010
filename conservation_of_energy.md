@@ -1,8 +1,8 @@
 We are wrapping up our quick tour of energy. Hopefully, the concept will become less and less weird as we return frequently to the subject. You should think of energy as something that every particle has and that is associated with its movement or can induce the particle to move.
 
-** What makes energy so important in physical systems is that it is a conserved physical quantity. **
+**What makes energy so important in physical systems is that it is a conserved physical quantity.**
 
-### The Conservation Principle
+## The Conservation Principle
 
 To talk about conservation of a physical quantity, we need to be careful to define a _system_. This is arbitrary, you always can choose what the system under consideration is. 
 
@@ -26,4 +26,4 @@ Another good analogy is money. The money in your bank account is a conserved qua
 
 But, for most things we do, money is a conserved quantity. If you want money you have to get it from somewhere. Of course, the federal government really can create money and you really can burn cash in your fire pit. Those rare actions are why money is not a conserved quantity in a fundamental sense.
 
-The idea with energy (and momentum soon), is that there is no Universe government that can create or destroy energy under any circumstances, at least we have no evidence that this has ever occurred.  
+The idea with energy (and momentum soon), is that there is no Universe government that can create or destroy energy under any circumstances, at least we have no evidence that this has ever occurred. 

@@ -2,7 +2,7 @@ Momentum like energy is a conserved quantity.
 
 Conservation of momentum is the cause for recoil and it is what allows rockets to move.
 
-Imagine a cannon, loaded with a cannon ball, at rest on the fortification. The initial speed (as seen from somebody also at rest) is zero and therefore the system (cannon + cannonball) has zero momentum $$p=mv = m\times 0 = 0$$. 
+Imagine a cannon, loaded with a cannon ball, at rest on the fortification. The initial speed (as seen from somebody also at rest) is zero and therefore the system (cannon + cannonball) has zero momentum $p=mv = m\times 0 = 0$. 
 
 After ignition, the cannon ball of mass $m_b$ is shot with velocity $v_b$. 
 
@@ -20,7 +20,7 @@ $p_b +p_c = 0$
 
 This is what recoil is. We started with zero momentum, we split the system in two parts and one moves left (say), the other must move right with a momentum equal in magnitude (but opposite in direction). 
 
-** Note a couple of important things** 
+**Note a couple of important things** 
 
 1. for the two momenta to add to zero, one of them must be negative of the other. They must be in opposite direction
 2. While the cannon and the cannon ball must have equal magnitude of momenta (same number but different signs), they do not have the same speed! Momenta is mass times speed and because the cannon has a much bigger mass it will have a much lower speed.

@@ -7,7 +7,7 @@ Richard Feynman, a well known physicist of the 20th century once said that if so
 
 The idea of atoms goes back to the greek (Democratus). It took a really long time before the atomic theory was accepted. Now we are able to move and see single atoms at a time. 
 
-### What Are Atoms?
+## What Are Atoms?
 
 Here are a few important things to remember about atoms.
 
@@ -18,19 +18,19 @@ Here are a few important things to remember about atoms.
 
 We have already discussed how small atoms are. One atom is about 0.1 nanometer in size $0.1\times10^{−9}=10^{−10}$.  What about numerous? How many atoms are there in the Universe?
 
-### Atoms are Numerous
+## Atoms are Numerous
 
 There are about 100,000,000,000,000,000,000,000 atoms in twenty grams of water (each gram is a drop of water). In scientific notation this is $10^{23}$ also often known as a mole. This is a huge number. A really, really huge number.
 
 <iframe src="https://h5p.org/h5p/embed/75090" width="1083" height="495" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### Atoms are Ageless
+## Atoms are Ageless
 
 Some atoms in your body are as old as the Universe, others were created in large supernovae explosions way before our sun even existed.  You continuously exchange atoms with the outside world (while you breath for example). Since there are as many atoms in your lungs as there are breaths of air in the atmosphere, it is almost certain that you have atoms inside your body right now that once belonged to Einstein, Gandhi or Newton. Atoms last forever, you don’t own them.
 
 Now, it is technically possible to create new atoms out of old ones by nuclear fusion (the sun transforms hydrogen into helium this way) or we can also destroy them via nuclear fission. For example, in nuclear reactors we break uranium into smaller parts. But both processes are hard to do and most atoms around you have been unchanged since the very beginning of the Universe!  We will learn more about nuclear fission and fusion later in this class.
 
-### Atoms Get Around
+## Atoms Get Around
 
 Atoms are constantly in motion. As we will see, just how much in motion is a measure of the temperature of the material. This constant jiggling that atoms do is how we first detected them. This is called Brownian motion and you can see this in your home! If you look at a small piece of dust (itself made of numerous atoms) in the air (assuming no wind), you will notice that it just wanders around sometimes changing completely its direction.
 
@@ -45,7 +45,7 @@ Atoms move and their speed varies upon the state of matter (liquid, solid or gas
 
 This is easy to figure out. When you see a lightning outside. It often takes a while to hear a thunder.
 
-[ciscode|rev=1|tool=elmsmedia|item=802|entity_type=node|render=display_mode|display_mode=image__left__circle]
+[ciscode|rev=1|tool=elmsmedia|item=802|entity_type=node|render=display_mode|display_mode=image__right__circle]
 
 Sophie (S): I know my parents told me when I was young.  For every 5 seconds between the lightning flash and the thunder, the storm is 1 mile away. 10 seconds delay, the storm is 2 miles away.  
 Marie (M): That's right. This is because light travels super fast while sound is slower. From what your parents told you, you can determine the speed of sound.

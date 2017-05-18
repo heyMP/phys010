@@ -24,14 +24,14 @@ Physicists prefer the unit of Joules which is the natural unit to use in their e
   
 As you can see from the table, for the same mass of fuel, uranium is the big winner. The energy that is accessible in uranium is the binding energy between neutrons and protons in the nucleus. We will learn more about this in the future but for now it is important to know that nuclear energy is often _much much_ bigger per gram than chemical energy (TNT, cookies) or energy stored in batteries.
 
-[ciscode|rev=1|tool=elmsmedia|item=428|entity_type=node|render=display_mode|display_mode=image]
+[ciscode|rev=1|tool=elmsmedia|item=428|entity_type=node|render=display_mode|display_mode=image__right__circle__lightboxed]
 
 * Marie: Do you play a sport, Sophie?
 * Sophie: Yes, I play volleyball.
 * M: Ah, great example. This is a sport that has more to do with power than energy.
 * M: Some sports require a lot of energy constantly, say like running. These are sports of endurance. But volleyball, or say football, often requires very quick bursts of energy release. These sports are not so much about energy, they require high power.
 
-### Power 
+## Power 
 
 Power is the rate of energy release. It is just the amount of energy that you can release over the time it takes to release it.   
   
@@ -41,7 +41,7 @@ Usain Bolt has a high power when he sprints the 100 meters in less than 10 secon
   
 TNT has less energy per gram than cookies but it has a high power. TNT is made to release its energy very quickly. TNT explodes while chocolate chip cookies require more time to release all their energy.
 
-#### How Much Energy and Power? 
+## How Much Energy and Power? 
 
 Let us see if you can estimate roughly how much energy and power are in this various circumstances.
 
