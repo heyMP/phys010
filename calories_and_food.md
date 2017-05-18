@@ -30,7 +30,7 @@ The formal definition of **energy** is **that which allows you to do work**, whi
 
 [ciscode|rev=1|tool=elmsmedia|item=427|entity_type=node|render=display_mode|display_mode=image__left]
 
-Let's say I compress the spring in Fig 2 by putting a box on top it. The spring when compressed will have stored energy in it. The spring has the ability to do work in moving the box over a certain distance; we say it has _potential_ energy. **_It has the potential of moving the box if the spring is released._** Where did the energy came from? I put it there by doing work on the spring by compressing it. I got the energy by eating my breakfast this morning, etc. . . Energy just moves around from one place to the next, and it makes things want to move.
+Let's say I compress the spring in the figure by putting a box on top it. The spring when compressed will have stored energy in it. The spring has the ability to do work in moving the box over a certain distance; we say it has _potential_ energy. **_It has the potential of moving the box if the spring is released._** Where did the energy came from? I put it there by doing work on the spring by compressing it. I got the energy by eating my breakfast this morning, etc. . . Energy just moves around from one place to the next, and it makes things want to move.
 
 - S: Are you saying that the energy in the compressed spring is the same energy as in food?
 - M: Yes. The energy in food is chemical energy between the atoms and molecules that make the food. You can think of molecules as having little compressed springs between each atom. Your body, via chemical reactions, breaks the bonds between molecules and the energy is released and used to move your muscles.
