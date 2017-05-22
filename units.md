@@ -22,7 +22,7 @@ We can also modify the units by adding a prefix. Here is a list of common prefix
 | giga | G | $10^{9}$
 
 
-> Usain Bolt run the 100 m race. This is the same as the 0.1 km (0.1 kilometer) race. 
+> Usain Bolt ran the 100 m race. This is the same as the 0.1 km (0.1 kilometer) race. 
 
 ### Different units for the same thing
 
