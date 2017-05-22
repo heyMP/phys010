@@ -9,9 +9,7 @@ A mass oscillating (vibrating) on a spring has a regular frequency. The pendulum
 [ciscode|rev=1|tool=elmsmedia|item=2090|entity_type=node|render=display_mode|display_mode=image_gallery__basic_gallery__circle]
 
 
-The oscillatory behavior of a pendulum or a mass on a spring can be displayed in a graphical manner as see below. Note the axis, time is the horizontal axis.
-
-[ciscode|rev=1|tool=elmsmedia|item=2094|entity_type=node|render=display_mode|display_mode=image]
+The oscillatory behavior of a pendulum or a mass on a spring can be displayed in a graphical manner as shown below.  Note the axis, time is the horizontal axis.
 
 There is a lot of information that you need to be able to pick up from this graph:
 
@@ -19,8 +17,4 @@ There is a lot of information that you need to be able to pick up from this grap
 - Period T = time to repeat oscillation (e.g., peak to peak)
 - Frequency f = 1/T. This is the number of oscillations per seconds. The units for frequency are Hertz.
 
-<div class="question">Q. Try it out! Try to figure out all three parameters (amplitude, period, and frequency) from the graph above.
-
-1. [Show Answer](#)\(x_m = 5m\), \(T = 0.5\) s and \(f = 2\) Hz
-
-</div>
+<iframe src="https://h5p.org/h5p/embed/80918" width="1090" height="507" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
