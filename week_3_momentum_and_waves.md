@@ -8,4 +8,5 @@ The objectives for this lesson are that by the end of the week you will be able 
 
 ## News Article
 
-- [Roswell 1947](http://www.angelfire.com/indie/anna_jones1/daily_record.html) \* nice old interesting news item. The physics behind the flying saucer in New-Mexico!
+-<a href="http://www.angelfire.com/indie/anna_jones1/daily_record.html" target="_blank">Roswell 1947</a> 
+ \* nice old interesting news item. The physics behind the flying saucer in New-Mexico!
