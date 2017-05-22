@@ -2,7 +2,7 @@ Now is a good time to pause and discuss units. Physical quantities are described
 
 If we ask you how much energy there is in your soda can and you answer 1... we then wait ... and follow by 1 what?
 
-It could be 1 Joules, 1 Calorie or maybe 1 orange worth of energy? 1 is not an answer, you need a unit. 
+It could be 1 Joule, 1 Calorie or maybe 1 orange worth of energy? 1 is not an answer, you need a unit. 
 
 Units are often abbreviated. For example a second becomes s. 
 
