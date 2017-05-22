@@ -22,5 +22,5 @@ This is what recoil is. We started with zero momentum, we split the system in tw
 
 **Note a couple of important things** 
 
-1. for the two momenta to add to zero, one of them must be negative of the other. They must be in opposite direction
+1. for the two momenta to add to zero, one of them must be negative of the other. They must be in opposite direction.
 2. While the cannon and the cannon ball must have equal magnitude of momenta (same number but different signs), they do not have the same speed! Momenta is mass times speed and because the cannon has a much bigger mass it will have a much lower speed.
