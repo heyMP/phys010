@@ -26,7 +26,7 @@ We can also modify the units by adding a prefix. Here is a list of common prefix
 
 ### Different units for the same thing
 
-Over time, physicist have invented many different units for the same physical quantities. 
+Over time, physicists have invented many different units for the same physical quantities. 
 
 The horsepower is the typical power (energy per time) of a working horse. The unit is abbreviated by hp. It is often used to measure power output of engines instead of the more standard Watt (W) for electricity.
 
