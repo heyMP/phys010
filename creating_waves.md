@@ -23,11 +23,4 @@ or speed of wave $v = \lambda f$. There is a subtle point here that the speed v 
 [ciscode|rev=1|tool=elmsmedia|item=2102|entity_type=node|render=display_mode|display_mode=image]
 
 Example:
-
-<div class="question">Q. Let us say that I double the pitch of a note (sound wave). What happens to the speed of the wave?
-
-1. [It doubles.](#)**No.** Not quite, think again
-2. [It halves.](#)**No.** Not quite, think again
-3. [It stays the same.](#)Indeed, it stays the same. This is a sound wave and the waves travel at the speed of sound. The speed of sound can vary from place to place and with changes in temperature, but it does not change just because you double the pitch of your note. If you double the pitch and oscillate your vocal chords twice as fast, then you will reduce the distance between crests by half. So the wavelength will be reduced by two in such a way that \(\lambda f = v\) as before.
-
-</div>
+<iframe src="https://h5p.org/h5p/embed/80945" width="1090" height="458" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
