@@ -2,12 +2,10 @@ Lesson Objectives
 -----------------
 
 The objectives for this lesson are that by the end of the week you will be able to
-
-1. Contrast the differences between momentum and energy and summarize the principle of conservation of momentum.
-2. Interpret graphical representations of oscillatory motions and of waves. Extract from the graphs information about the period (T), frequency f = 1/T [in units of Hertz (Hz) = 1/s], amplitude A and wavelength \(\lambda\).
-3. Employ correctly the relation between wavelength, frequency and speed of a wave \((v=\lambda f\)) being careful to keep the velocity constant.
-4. Describe the basic features of the sound wave.
-5. Enumerate various ways in which the speed of sound can change and explain how variations in the speed of sound lead to bending of waves.
+* LOPW02: note the similarities between various wave phenomena such as sound and light. 
+* LOPW03: employ correctly the relation between wavelength, frequency and speed of a wave.
+* LOPW04: describe the basic features of the sound wave.LOPW05	understand how speed of sound can change and how this can lead to bending of wave.
+* LOPW06: determine the result of interference between two waves such as in the double slit experiment 
 
 Readings
 --------
