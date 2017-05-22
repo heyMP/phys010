@@ -19,7 +19,7 @@ We can also modify the units by adding a prefix. Here is a list of common prefix
 | centi | c | $10^{-2}$
 | kilo | k | $10^{3}$
 | mega | M | $10^{6}$
-| giga | G | $10^{12}$
+| giga | G | $10^{9}$
 
 
 > Usain Bolt run the 100 m race. This is the same as the 0.1 km (0.1 kilometer) race. 
