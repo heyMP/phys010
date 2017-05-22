@@ -1,5 +1,4 @@
-Lesson Objectives
------------------
+## Lesson Objectives
 
 The objectives for this lesson are that by the end of the week you will be able to
 * LOPW02: note the similarities between various wave phenomena such as sound and light. 
@@ -7,22 +6,6 @@ The objectives for this lesson are that by the end of the week you will be able 
 * LOPW04: describe the basic features of the sound wave.LOPW05	understand how speed of sound can change and how this can lead to bending of wave.
 * LOPW06: determine the result of interference between two waves such as in the double slit experiment 
 
-Readings
---------
-
-- This lesson
-- Ch. 3, pp 89-93: From "momentum" to "skyhook"
-- Ch. 7, pp 239-260: From beginning to "Locating the Epicenter of An Earthquake"
-
-Assignments
------------
-
-_**Due by Sunday, 11h59pm Eastern time**_. Look in Canvas for:
-
-- **Homework #3**
-- **Discussion #3**
-
-News Article
-------------
+## News Article
 
 - [Roswell 1947](http://www.angelfire.com/indie/anna_jones1/daily_record.html) \* nice old interesting news item. The physics behind the flying saucer in New-Mexico!
