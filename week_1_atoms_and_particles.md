@@ -20,7 +20,7 @@ In the weekly lessons, you will often see many discussions between Sophie and Ma
 
 ## Lesson Objectives for week 1
 
-The full list of objectives can be found on Canvas $$ test $$
+The full list of objectives can be found on Canvas
 
 1. LOPro01 read and interpret graphs and data
 2. LOPro02 calculate with large and small numbers using the scientific notation.
