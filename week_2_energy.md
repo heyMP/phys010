@@ -5,13 +5,18 @@ The objectives for this lesson are that by the end of the week you will be able 
 
 * LOPro03 work with and convert units
 * LONrgM01: understand the meaning of and determine the kinetic energy of an object 
-* LONrgM02: understand the meaning of potential energy of an object
+* 
+LONrgM02: understand the meaning of potential energy of an object
 * LONrgM03: compare and be able to measure various sources of energy in your daily life.
 * LONrgM04: analyze motion using energy conservation
-* LONrgM05: draw energy bar charts to account for energy change
-* LONrgM06: compare and contrast power versus energy.
-* LONrgM07: summarize the concept of thermal energy and the concept of phase transformation.
-* LONrgM08: calculate the momentum of a particle in one dimension with appropriate care for direction.
+* 
+LONrgM05: draw energy bar charts to account for energy change
+* 
+LONrgM06: compare and contrast power versus energy.
+* 
+LONrgM07: summarize the concept of thermal energy and the concept of phase transformation.
+* 
+LONrgM08: calculate the momentum of a particle in one dimension with appropriate care for direction.
 * LONrgM09: apply the principle of conservation of momentum to explosions in one dimension
 
 News Articles
