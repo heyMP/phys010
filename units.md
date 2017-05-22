@@ -60,9 +60,9 @@ Many units can be expressed in term of others. The easiest example that we have 
 
 Since power = energy/time, it means that 
 
-1 Watt = 1 Joule/second  (pronounces 1 Joule _per_ second). One can say that a lightbulb is rated at 60 W or it is rated at 60 J/s. These are equivalent ways of stating the same physical quantity. 
+1 Watt = 1 Joule/second  (pronounced 1 Joule _per_ second). One can say that a lightbulb is rated at 60 W or it is rated at 60 J/s. These are equivalent ways of stating the same physical quantity. 
 
-Another well known example is speed which is in m/s (meters per second). We do not have a special name for it, we just always express speed in m/s or km/h or mi/h (=mph). 
+Another well known example is speed which is in m/s (meters per second). We do not have a special name for it, we just always express speed in m/s or km/h or mi/h. The last one is often written as mph (miles per hour).  
 
 > note that hour (h) is not a SI unit and must be converted to second 1 h = 3600 s
 
