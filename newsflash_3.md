@@ -11,8 +11,7 @@ The next day, the US government retracted the press release; they said they were
 
 It is true that the government was lying. It was covering up a secret program called "Project Mogul."
 
-Sound Channel
--------------
+## Sound Channel
 
 From your readings, try to answer the following questions.
 
