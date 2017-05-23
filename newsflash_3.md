@@ -15,21 +15,13 @@ It is true that the government was lying. It was covering up a secret program ca
 
 From your readings, try to answer the following questions.
 
-<div class="question">Q. Waves tends to bend in to the side
+<iframe src="https://h5p.org/h5p/embed/81014" width="1091" height="375" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-1. [with slower wave velocity.](#)**Correct!** See the marching band analogy below.
-2. [with higher wave velocity.](#)**No.** See the marching band analogy below.
-3. [that is upward.](#)**No.** it depends.
-4. [that is downward.](#)**No.** it depends.
-
-</div><div class="question">Q. To have a sound channel, there must be
-
-1. [a decrease of the velocity with depth.](#)**No.** thats not enough
-2. [a maximum in the velocity of sound.](#)**No.** the opposite.
-3. [a minimum in the velocity of sound.](#)**Correct!** We need a minimum velocity. You are only as slow as the weakest member. Wave tends to stick in the minimum speed channel.
-4. [an increase of the velocity with depth.](#)**No.** that's not enough.
+<iframe src="https://h5p.org/h5p/embed/81016" width="1091" height="375" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
  
-</div><div class="figurelabel"><div class="figurelabel__title">Figure </div><div class="figurelabel__desc">This figure represents the marching band analogy, Each dot is in person trying to stay in line with its neighbors. </div></div>![marching band bend on slow side](https://online.science.psu.edu/sites/default/files/phys010/W3waves/marchingband.png "This figure represents the marching band analogy, Each dot is in person trying to stay in line with its neighbors.")![wave refraction bending on slow side](https://online.science.psu.edu/sites/default/files/phys010/W3waves/Wave_refraction.gif)
+[ciscode|rev=1|tool=elmsmedia|item=2108|entity_type=node|render=display_mode|display_mode=image__left]
+
+[ciscode|rev=1|tool=elmsmedia|item=2110|entity_type=node|render=display_mode|display_mode=image__right]
 
 One way to see that waves bend on the slow side is to imagine that a wave is just a marching band with each row of the band representing a crest of the wave. As the band marches, all members in a given crest try to stay in line. If one side slows down, the other side will need to turn in order to keep a straight line.
 
