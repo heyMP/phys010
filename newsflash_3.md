@@ -25,8 +25,7 @@ From your readings, try to answer the following questions.
 
 One way to see that waves bend on the slow side is to imagine that a wave is just a marching band with each row of the band representing a crest of the wave. As the band marches, all members in a given crest try to stay in line. If one side slows down, the other side will need to turn in order to keep a straight line.
 
-SOFAR 
-------
+## SOFAR 
 
 As we saw, the speed of sound is determined by the speed of molecules or atoms in the medium. In a liquid or gas, there can be two competing effects to change the speed of sound:
 
@@ -35,11 +34,11 @@ As we saw, the speed of sound is determined by the speed of molecules or atoms i
 
 If you look at the ocean, the temperature decreases as you go down in depth, but the pressure increases. The two effects compete against each other and there is a minimum speed.
 
-<div class="figurelabel"><div class="figurelabel__title">Figure </div><div class="figurelabel__desc">Figure showing that there is a minimum speed (sound channel, SOFAR) in the Ocean. </div></div>![Figure showing that there is a minimum speed (sound channel, SOFAR) in the Ocean.](https://online.science.psu.edu/sites/default/files/phys010/W3waves/SOFAR.png)
+[ciscode|rev=1|tool=elmsmedia|item=2112|entity_type=node|render=display_mode|display_mode=image]
 
 This is the sound channel in the ocean. Sound tends to get focused and trapped in this channel, and it will travel for miles before being dissipated. The SOFAR program is a military program to rescue downed pilots and it uses the ocean sound channel. Whales also use this sound channel to communicate over long distances.
 
-<div class="figurelabel"><div class="figurelabel__title">Figure </div><div class="figurelabel__desc">A sound channel arises when there is a minimum velocity. Waves in this channel may be trapped. </div></div>[![soudn channel. How one gets trapped in a region of slow speed.](https://online.science.psu.edu/sites/default/files/phys010/W3waves/sound%20channel2.png "A sound channel arises when there is a minimum velocity. Waves in this channel may be trapped. ")](https://online.science.psu.edu/sites/default/files/phys010/W3waves/sound channel.png)
+[ciscode|rev=1|tool=elmsmedia|item=2114|entity_type=node|render=display_mode|display_mode=image]
 
 A similar sound channel exists in the atmosphere. At high enough altitude, the temperature of the air in the atmosphere goes up because it is heated by the sun's rays. The pressure on the other hand goes down the higher you go. This competition creates a sound channel in the atmosphere where there is a minimum in the speed of sound.
 
@@ -47,4 +46,4 @@ A similar sound channel exists in the atmosphere. At high enough altitude, the t
 
 The answer to Roswell (at least if you want to believe the most recent explanation) is that the 1947 flying saucer was really a big disk microphone (like Gandhi is using below circa 1940 but bigger). This was the "flying disk" and it was flying high up in the atmosphere since it was stationed in the sound channel in the hope of detecting Russia's nuclear tests. This was a top secret program and it worked with the US detecting the first of Russia's nuclear tests in 1949.
 
-![disk microphone use by Gandhi circa 1940](https://online.science.psu.edu/sites/default/files/phys010/W3waves/diskmicrophone.png)
+[ciscode|rev=1|tool=elmsmedia|item=2116|entity_type=node|render=display_mode|display_mode=image]
