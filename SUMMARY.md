@@ -33,7 +33,7 @@
     * [Creating Waves](creating_waves.md)
     * [Sound](sound.md)
     * [Newsflash 3](newsflash_3.md)
-    * [Light as a Wave](light_as_a_wave.md)
+    * [Light Waves](light-waves.md)
     * [Interlude](interlude_physics_as_an_experimental_science.md)
     * [Wave can Cancel or Reinforce](waves_can_cancel_or_reinforce.md)
     * [The Double Slit Experiment](the_double_slit_experiment.md)
