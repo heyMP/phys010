@@ -10,14 +10,4 @@ If you play music, you may know that you can tune your instrument by playing you
 
 ## Interference Practice 
 
-<div class="question">Q. The pulse on the left is moving right, the pulse on the right is moving left. What will you see when the pulses overlap?
-
-![one (long and thing) squared shape pulse moves right while an other square shaped pulse (short and wide) moves left)](https://online.science.psu.edu/sites/default/files/phys010/W3waves/movingpulses.png)
-
-1. [![Pulse A](https://online.science.psu.edu/sites/default/files/phys010/W3waves/pulseA.png)](#)**No.** Make sure to count carefully the numbers of bars in each pulse
-2. [![Pulse B](https://online.science.psu.edu/sites/default/files/phys010/W3waves/pulseB.png)](#)**Correct!** You just add them directly as shown below ![answer is B](https://online.science.psu.edu/sites/default/files/phys010/W3waves/PulseAnswerB.png)
-3. [![Pulse C](https://online.science.psu.edu/sites/default/files/phys010/W3waves/pulseC.png)](#)**No.** A little high in the middle
-4. [![Pulse D](https://online.science.psu.edu/sites/default/files/phys010/W3waves/pulseD.png)](#)**No.** Missing the bottom
-5. [![Pulse E](https://online.science.psu.edu/sites/default/files/phys010/W3waves/pulseE.png)](#)**No.** Where does the rounding comes from?
- 
-</div>
+<iframe src="https://h5p.org/h5p/embed/81023" width="1091" height="639" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
