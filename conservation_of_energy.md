@@ -26,4 +26,4 @@ Another good analogy is money. The money in your bank account is a conserved qua
 
 But, for most things we do, money is a conserved quantity. If you want money you have to get it from somewhere. Of course, the federal government really can create money and you really can burn cash in your fire pit. Those rare actions are why money is not a conserved quantity in a fundamental sense.
 
-The idea with energy (and momentum soon), is that there is no Universe government that can create or destroy energy under any circumstances, at least we have no evidence that this has ever occurred. 
+The idea with energy (and momentum soon), is that there is no Universe government that can create or destroy energy under any circumstances, at least we have no evidence that this has ever occurred.

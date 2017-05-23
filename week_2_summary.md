@@ -1,6 +1,6 @@
 - Forms of energy are: gravitational potential, kinetic, nuclear, electrical potential, etc…
 - Get a good feeling of both tables on daily life section.
-- Power is energy delivered per unit of time. Units for power are Watts while Energy would be in Watt-hour for example
+- Power is energy delivered per unit of time. Units for power are Watts while energy would be in Watt-hour for example
 - Kinetic energy (denoted K) is given by
 
 $K = \frac12 mv^2$
