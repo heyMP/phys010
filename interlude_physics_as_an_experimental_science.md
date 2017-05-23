@@ -25,4 +25,4 @@ Now Newton had a hypothesis about light (he just came up with it). He thought th
   
 His ideas about light as a particle failed to correctly (again with numbers) describe other phenomena like interference (to be discussed next). Since Newton was famous, his ideas about light lasted longer than it should have, but eventually, in physics, we don’t care about how famous you are. If your hypothesis does not fit the data (does not match the numbers we measure), it is just wrong and it goes to the garbage can. No sentiments involved!
 
-![Experiments lead to technological advances and allow us to test our theories of nature ](https://online.science.psu.edu/sites/default/files/phys010/W3waves/experimental.png)
+[ciscode|rev=1|tool=elmsmedia|item=2120|entity_type=node|render=display_mode|display_mode=image]
