@@ -1,4 +1,7 @@
-The article for this week is [Roswell 1947](http://www.angelfire.com/indie/anna_jones1/daily_record.html). This story is discussed at length in your book as well: Ch. 7, pp 239-260.
+The article for this week is
+-<a href="http://www.angelfire.com/indie/anna_jones1/daily_record.html" target="_blank">Roswell 1947</a>
+
+This story is discussed at length in your book as well: Ch. 7, pp 239-260.
 
 This is a pretty neat story. Here is a very short summary:
 
