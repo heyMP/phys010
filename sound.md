@@ -1,36 +1,29 @@
-<div class="question">Q. TRUE or FALSE?   
-In order for John to hear Jill, air molecules must move all the way from the lips of Jill to the ears of John.
+<iframe src="https://h5p.org/h5p/embed/81012" width="1091" height="292" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-1. [True](#)**No.** All the way?
-2. [False](#)**Correct!** A sound wave involves the movement of energy from one location to another, not the movement of material. The air molecules are the particles of the medium, and they are only temporarily displaced, always returning to their original position.
- 
-</div><div class="question">Q. A medium is able to transport a wave from one location to another because the particles of the medium are ____.
+<iframe src="https://h5p.org/h5p/embed/81013" width="1091" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-1. [frictionless.](#)**No**. on the contrary
-2. [isolated from one another.](#)**No**. on the contrary
-3. [able to interact.](#)**Correct!** For a wave to be transmitted through a medium, the individual particles of the medium must be able to interact so they can exert a push and/or pull on each other; this is the mechanism by which disturbances are transmitted through a medium.
-4. [very light.](#)**No**. does not matter.
  
-</div>- M: Good job, Sophie. Remember that a wave is just the disturbance that is traveling. The atoms in the medium in which the wave is (the disturbance) do move a bit, but, on average, they don’t go anywhere.
+- M: Remember that a wave is just the disturbance that is traveling. The atoms in the medium in which the wave is (the disturbance) do move a bit, but, on average, they don’t go anywhere.
 - S: It makes sense. When I go to the beach, I get waves after waves hitting me, but it's really always the same molecules of water each time.
 - M: That's right. Another good example is sound.
 
-Sound 
-------
+## Sound 
 
 Sound is a disturbance in the pressure of the air.
 
-![tuning fork](https://online.science.psu.edu/sites/default/files/phys010/W3waves/tfl.gif)![guitar string producing a standing waves](https://online.science.psu.edu/sites/default/files/phys010/W3waves/gsl.gif)
+[ciscode|rev=1|tool=elmsmedia|item=2104|entity_type=node|render=display_mode|display_mode=image__left]
+
+[ciscode|rev=1|tool=elmsmedia|item=2106|entity_type=node|render=display_mode|display_mode=image__right]
 
 When you vibrate a tuning fork or a string, you create regions of _compression_ and of _rarefaction_. These are the crests and troughs of the wave.
 
-If you vibrate the guitar string twice as slow (reduce the frequency by two) then the distance between the compressed regions will be twice as big (you would double \(\lambda\)).
+If you vibrate the guitar string twice as slow (reduce the frequency by two) then the distance between the compressed regions will be twice as big (you would double $\lambda$).
 
 Just as for any waves, we have:
 
-\(v_{sound} = \lambda f\)
+$ v_{sound} = \lambda f$
 
-### Speed of Sound 
+## Speed of Sound 
 
 What is the speed of a sound wave? When you see lightning outside, it often takes a while to hear the thunder. We saw this already in week 1. The speed of sound at normal temperature and pressure is
 
