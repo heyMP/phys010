@@ -17,7 +17,7 @@ Is Light a Wave or a Particle?
 
 [ciscode|rev=1|tool=elmsmedia|item=1041|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
 
-Newton did the following experiment with light: He shined light on a prism and he observed that the outgoing light was dispersed in different rainbow colors. He could measure exactly (with numbers) the spread of the dispersed light. He realized that this dispersion occurred when light went through any lens (for example in your camera or even in your eyeglasses), and he found ways to polish lenses to correct for this dispersion (this is called chromatic aberration in this context). This led him to build the first functional reflecting telescope which he could then use to study the cosmos!   
+Isaac Newton did the following experiment with light. He shined light on a prism and he observed that the outgoing light was dispersed in different rainbow colors. He could measure exactly (with numbers) the spread of the dispersed light. He realized that this dispersion occurred when light went through any lens (for example in your camera or even in your eyeglasses), and he found ways to polish lenses to correct for this dispersion (this is called chromatic aberration in this context). This led him to build the first functional reflecting telescope which he could then use to study the cosmos!   
   
 This is typical of experimental physics. A precise, measurable, understanding of the world leads to technological breakthroughs sometimes unexpected!   
   
