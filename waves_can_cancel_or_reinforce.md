@@ -2,13 +2,13 @@ Imagine an earthquake (which is a wave) coming to you. Or rather, let us imagine
 
 Yes, waves can add up or cancel and this story about earthquakes waves cancelling is not as crazy as it sounds. In many earthquakes, you will often find buildings untouched while right next to them you find only rubbles. Usually this happens when the earthquake wave bounces on something and interacts back with itself. In some lucky places, it can cancel completely.
 
-Beats 
-------
+## Beats 
 
-If you play music, you may know that you can tune your guitar by playing your note against a standard note and listening for beats. What you are doing when you tune is adding two waves with nearly, but not exactly, the same pitch (frequency). You can see this in Fig. 3. In some places the two waves cancel while in other places they double and you hear a strong sound. Those are the beats.
+If you play music, you may know that you can tune your instrument by playing your note against a standard note and listening for beats (regular thumps). What you are doing when you tune is adding two waves with nearly, but not exactly, the same pitch (frequency). You can see this in the figure below. In some places the two waves cancel while in other places they double and you hear a strong sound. Those are the beats.
 
-[ciscode|rev=1|tool=elmsmedia|item=1033|entity_type=node|render=display_mode|display_mode=image] Interference Practice 
-----------------------
+[ciscode|rev=1|tool=elmsmedia|item=1033|entity_type=node|render=display_mode|display_mode=image] 
+
+## Interference Practice 
 
 <div class="question">Q. The pulse on the left is moving right, the pulse on the right is moving left. What will you see when the pulses overlap?
 
