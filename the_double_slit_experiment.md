@@ -8,11 +8,7 @@ The double slit experiment is a great example of wave interference.  This experi
 
 [ciscode|rev=1|tool=elmsmedia|item=2121|entity_type=node|render=display_mode|display_mode=mediavideo]
 
-<iframe allowfullscreen="" frameborder="0" height="315" scrolling="no" src="https://youtu.be/VIXV7Gf58jI" width="560"></iframe>
-
 ### Double slit pattern
-
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://youtu.be/VIXV7Gf58jI" width="560"></iframe>
 
 - S: Pretty cool images. So physicists can calculate all of that?
 - M: Yes, and it's actually not very hard. The interference pattern is completely predicted. We can figure out the position of each bright and dark spots by just knowing the size and shape of the slits, the distance between them, and the wavelength of the incident wave.
