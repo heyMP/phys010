@@ -1,4 +1,4 @@
-Before we study waves, we need to start by looking at the basic idea of and **oscillator**. You can get an oscillating behavior (in time) whenever there is a restoring force that wants to continuously bring back the system to equilibrium.
+Before we study waves, we need to start by looking at the basic idea of an **oscillator**. You can get an oscillating behavior (in time) whenever there is a restoring force that wants to continuously bring back the system to equilibrium.
 
 [ciscode|rev=1|tool=elmsmedia|item=2092|entity_type=node|render=display_mode|display_mode=image__boxed__right]
 
