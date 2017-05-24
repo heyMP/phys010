@@ -1,5 +1,7 @@
 <div class="question">Q. **_Optional harder question_**: The ground state energy for electrons in an atom is around 1 eV (13.6 eV for hydrogen for example). **What do you think the ground state energy for alpha particles in a nucleus should be?** To figure this out, you just need to know the difference in size and the fact that the ground energy \(E_1 \propto \frac{1}{m L^2}\). An atom is \(10^{-10}\) m in size while the nucleus is \(10^{-15}\) meters in size. The mass of the alpha partcle is about \(10^4\) times bigger than the electron.
 
+asdfasdf
+
 1. [10 eV](#).  
   **No.** Too small.
 2. [\(10^6\) eV](#).  
