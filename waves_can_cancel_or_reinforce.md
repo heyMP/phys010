@@ -6,7 +6,7 @@ Yes, waves can add up or cancel and this story about earthquakes waves cancellin
 
 If you play music, you may know that you can tune your instrument by playing your note against a standard note and listening for beats (regular thumps). What you are doing when you tune is adding two waves with nearly, but not exactly, the same pitch (frequency). You can see this in the figure below. In some places the two waves cancel while in other places they double and you hear a strong sound. Those are the beats.
 
-[ciscode|rev=1|tool=elmsmedia|item=1033|entity_type=node|render=display_mode|display_mode=image] 
+[ciscode|rev=1|tool=elmsmedia|item=1033|entity_type=node|render=display_mode|display_mode=image]
 
 ## Interference Practice 
 
