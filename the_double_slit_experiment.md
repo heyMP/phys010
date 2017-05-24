@@ -6,6 +6,8 @@ The double slit experiment is a great example of wave interference.  This experi
 
 [ciscode|rev=1|tool=elmsmedia|item=1047|entity_type=node|render=display_mode|display_mode=image]</div></div>And this is the demo for the double slit:
 
+[ciscode|rev=1|tool=elmsmedia|item=2121|entity_type=node|render=display_mode|display_mode=mediavideo]
+
 <iframe allowfullscreen="" frameborder="0" height="315" scrolling="no" src="https://youtu.be/VIXV7Gf58jI" width="560"></iframe>
 
 ### Double slit pattern
