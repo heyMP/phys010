@@ -1,3 +1,5 @@
+\* Some of the following refers to the single slit experiment. This is harder to explain than double slit and we will not focus on this in the course. We will only look at the double slit experiment. 
+
 ## Double Slit
 
 The double slit experiment is a great example of wave interference.  This experiment is also quite famous for other reasons and we will return to it in later parts of the class. The set-up is simple (see figure below). We shine light on a screen with two holes (two slits) of a certain size and a certain distance apart. If the holes are very small compared to the wavelength of the incident light, then it is just as if we had two point sources separated by a small distance. So this is a very clean set-up and we can easily predict the interference pattern. It looks like a long line of equally spaced dark and bright spots.
