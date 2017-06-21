@@ -38,5 +38,6 @@
     * [Wave can Cancel or Reinforce](waves_can_cancel_or_reinforce.md)
     * [The Double Slit Experiment](the_double_slit_experiment.md)
     * [Week 3 Summary](week_3_summary.md)
+  * [Week 4: Testing](asdfasdf.md)
 * [End of Book](README.md)
 
