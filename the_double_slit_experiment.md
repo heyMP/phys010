@@ -1,3 +1,5 @@
+\* Some of the following refers to the single slit experiment. This is harder to explain than double slit and we will not focus on this in the course. We will only look at the double slit experiment. 
+
 ## Double Slit
 
 The double slit experiment is a great example of wave interference.  This experiment is also quite famous for other reasons and we will return to it in later parts of the class. The set-up is simple (see figure below). We shine light on a screen with two holes (two slits) of a certain size and a certain distance apart. If the holes are very small compared to the wavelength of the incident light, then it is just as if we had two point sources separated by a small distance. So this is a very clean set-up and we can easily predict the interference pattern. It looks like a long line of equally spaced dark and bright spots.
@@ -6,11 +8,11 @@ The double slit experiment is a great example of wave interference.  This experi
 
 [ciscode|rev=1|tool=elmsmedia|item=1047|entity_type=node|render=display_mode|display_mode=image]</div></div>And this is the demo for the double slit:
 
-<iframe allowfullscreen="" frameborder="0" height="315" scrolling="no" src="https://youtu.be/VIXV7Gf58jI" width="560"></iframe>
-
 ### Double slit pattern
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://youtu.be/VIXV7Gf58jI" width="560"></iframe>
+[ciscode|rev=1|tool=elmsmedia|item=2123|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+
+[ciscode|rev=1|tool=elmsmedia|item=2122|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
 - S: Pretty cool images. So physicists can calculate all of that?
 - M: Yes, and it's actually not very hard. The interference pattern is completely predicted. We can figure out the position of each bright and dark spots by just knowing the size and shape of the slits, the distance between them, and the wavelength of the incident wave.
