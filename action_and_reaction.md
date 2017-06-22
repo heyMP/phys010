@@ -12,3 +12,5 @@ This law is just the statement that if the Earth via gravity makes you move fast
 \(\Delta p_{Earth} = - \Delta p_{me}\)
 
 If the change in momentum for both are the same and the interaction happens over the same time than the force must be the same ( \( F\Delta t = \Delta p\)). Up to a sign, which is why we say opposite.
+
+asdf
