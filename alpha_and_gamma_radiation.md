@@ -1,4 +1,5 @@
 - A: Alright, we have all the tools to understand the first two basic types of nuclear radiation. Alpha decay and gamma decay. Let's start with alpha.
+asdf
 
 1. The nucleus is an energy well. The source of this energy is the nuclear force which is stronger than the electric repulsion between the protons, but it is very short range.
 2. Each nucleus has some average binding energy. Helium is unusually stable and so protons and neutrons like to group themselves in bunches of four (helium or alpha particle) inside the nucleus.
