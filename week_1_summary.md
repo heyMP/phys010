@@ -1,5 +1,7 @@
 Here are some of the main points of this week. This is not meant to be exhaustive and you should refer to your textbook and to the webpages before.
+asdfasdf
 
+asdfasdf
 ### Numbers and Units
 
 - a nanometer is $10^{-9}$ m and atoms are about 0.1 nm in size.
