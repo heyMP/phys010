@@ -1,5 +1,6 @@
 - A: Alright, we have all the tools to understand the first two basic types of nuclear radiation. Alpha decay and gamma decay. Let's start with alpha.
 
+asdf
 <span>Let us summarize:</span>
 
 asdfasdf
