@@ -7,6 +7,8 @@ asdf
 
 asdf
 
+asdf
+
 - S: But why, why is it this way? Why those numbers?
 - M: The reason the electric company sends you AC and not a direct current with a fixed voltage is to save energy. The big advantage of AC current is that it can use a machine called the transformer.
 - S: The transformer? What is that?
