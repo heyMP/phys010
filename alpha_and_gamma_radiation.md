@@ -9,6 +9,8 @@ asdf
 asdf
 asdfasdf
 
+asdf
+
 1. The nucleus is an energy well. The source of this energy is the nuclear force which is stronger than the electric repulsion between the protons, but it is very short range.
 2. Each nucleus has some average binding energy. Helium is unusually stable and so protons and neutrons like to group themselves in bunches of four (helium or alpha particle) inside the nucleus.
 3. The most stable atom is iron. Atoms below iron would like to grab some alpha particles, but this is very rare. Atoms bigger than iron can eject an alpha particle to become more stable.
