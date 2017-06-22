@@ -2,6 +2,9 @@ AC current
 ----------
 
 The current coming out of the plug in the wall alternates direction. In the US, the current and the voltage alternate between 170 V and -170 V (the minus sign means the polarity has changed and the electrons move in the other direction). It alternates with a frequency of 60 Hz so it goes through 60 cycles (back and forth) every seconds. The "effective" voltage that one gets from this kind of source is 120V.
+asdfsadf
+
+asdf
 
 - S: But why, why is it this way? Why those numbers?
 - M: The reason the electric company sends you AC and not a direct current with a fixed voltage is to save energy. The big advantage of AC current is that it can use a machine called the transformer.
