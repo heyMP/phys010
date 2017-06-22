@@ -1,4 +1,4 @@
-Here are some of the main points of this week. This is not meant to be exhaustive and you should refer to your textbook and to the webpages before.
+asdfkasdlfjHere are some of the main points of this week. This is not meant to be exhaustive and you should refer to your textbook and to the webpages before.
 asdfasdf
 
 asdfasdf
