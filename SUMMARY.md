@@ -1,6 +1,6 @@
 # Summary
 
-* [Lessonst Killswitch adfaaaaa asdfasasd fdf](lessons.md)
+* [Lessonst Killswitch adfaaaaa asdfasasd fdfa sdf](lessons.md)
   * [Week 1: Atoms and Particles](week_1_atoms_and_particles.md)
     * [Introduction and Concept Map](introduction_and_concept_map.md)
     * [Instructor](instructor.md)
