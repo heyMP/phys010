@@ -1,7 +1,7 @@
 # Summary
 
-* [Lessonst sd asdf asdasasdfdffasdf](lessons.md)
-  * [Week 1: Atoms and Particles](week_1_atoms_and_particles.md)
+* [Lessonst sd asdf asdasasdfasdfdffasdf](lessons.md)
+  * [Week 1: Atoms anasdfd Particles](week_1_atoms_and_particles.md)
     * [Introduction and Concept Map](introduction_and_concept_map.md)
     * [Instructor](instructor.md)
     * [The Brain and Physics](the_brain_and_physics.md)
