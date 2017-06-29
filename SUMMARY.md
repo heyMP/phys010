@@ -1,6 +1,6 @@
 # Summary
 
-* [killswitch](lessons.md)
+* [mike book](lessons.md)
   * [Week 1: Atoms anasdfd asdfParticles](week_1_atoms_and_particles.md)
     * [Introduction and Concept Map](introduction_and_concept_map.md)
     * [Instructor](instructor.md)
