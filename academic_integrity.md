@@ -1,5 +1,6 @@
 Academic integrity—scholarship free of fraud and deception—is an important educational objective of Penn State. Academic dishonesty can lead to a failing grade or referral to the [Office of Student Conduct](http://www.sa.psu.edu/ja/ "Office of Student Conduct"). Academic dishonesty includes:
 
+- testing
 - cheating
 - plagiarism
 - fabrication of information or citations
