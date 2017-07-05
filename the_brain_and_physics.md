@@ -1,6 +1,6 @@
 ### The Brain
 
-Some people believe that intellectual ability is purely genetic or fixed.
+Some people believe that intellectual ability is purely genetic or fixed. asdf
 
 This is a myth. Research now shows that your brain is like a muscle; the more you apply it and struggle, the more it grows. People who learn to recognize this fact about their own brain develop a ‘growth mindset’ and are able to persevere and achieve more.
 
